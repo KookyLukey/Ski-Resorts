@@ -16,75 +16,7 @@ var map = new mapboxgl.Map({
 map.on('load', function() {
     map.addSource("resorts", {
         type: "geojson",
-        data: {
-                "type": "FeatureCollection",
-                "features": [
-                  {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "Snowbird",
-                      "marker-color": "#0000ff",
-                      "marker-symbol": "skiing",
-                      "line": "blue"
-                    },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                        -111.6569709777832,
-                        40.58100838285447
-                      ]
-                    }
-                  },
-                  {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "Alta",
-                      "marker-color": "#0000ff",
-                      "marker-symbol": "skiing",
-                      "line": "blue"
-                    },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                        -111.63795948028563,
-                        40.58876522056642
-                      ]
-                    }
-                  },
-                  {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "Brighton",
-                      "marker-color": "#0000ff",
-                      "marker-symbol": "skiing",
-                      "line": "blue"
-                    },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                        -111.58324241638184,
-                        40.60170214544079
-                      ]
-                    }
-                  },
-                  {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "Solitude",
-                      "marker-color": "#0000ff",
-                      "marker-symbol": "skiing",
-                      "line": "blue"
-                    },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                        -111.59208297729492,
-                        40.62020704520565
-                      ]
-                    }
-                  }
-                ]
-              },
+        data: geoJsonData,
         cluster: true,
         clusterMaxZoom: 14, // Max zoom to cluster points on
         clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
@@ -101,8 +33,9 @@ map.on('load', function() {
                 type: "interval",
                 stops: [
                     [0, "#51bbd6"],
-                    [100, "#f1f075"],
-                    [750, "#f28cb1"],
+                    [2, "#DAF7A6"],
+                    [4, "#f1f075"],
+                    [8, "#f28cb1"],
                 ]
             },
             "circle-radius": {
@@ -146,10 +79,14 @@ map.on('load', function() {
 map.on('click', 'unclustered-point', function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.features[0].geometry.coordinates)
-            .setHTML(e.features[0].properties.name)
+            .setHTML(e.features[0].properties.description)
             .addTo(map);
     });
 
 map.on('mouseenter', 'unclustered-point', function () {
         map.getCanvas().style.cursor = 'pointer';
+    });
+
+map.on('mouseleave', 'unclustered-point', function () {
+        map.getCanvas().style.cursor = '';
     });
