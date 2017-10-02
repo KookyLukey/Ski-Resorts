@@ -6,10 +6,7 @@
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
-<style>
-  body { margin:0; padding:0; }
-  #map { position:absolute; top:0; bottom:0; width:100%; }
-</style>
+<link rel='stylesheet' href="resorts.css"/>
 </head>
 <body>
 <style>
@@ -19,6 +16,7 @@
 	}
 </style>
 <div id='map'></div>
+<div class='map-overlay' id='features'><h2>Ski Resort Locations Around the World</h2><div id='pd'><p>Zoom in and click on a blue circle!</p></div></div>
 <script src="resorts.js"></script>
 <script src="geoJsonData.js"></script>
 </body>
