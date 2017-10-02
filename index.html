@@ -16,8 +16,11 @@
 	}
 </style>
 <div id='map'></div>
-<div class='map-overlay' id='features'><h2>Ski Resort Locations Around the World</h2><div id='lgDesc'><p>Zoom in and click on a blue circle!</p></div></div>
+<div class='map-overlay' id='features'><h2>Ski Resort Locations Around the World</h2><div id='lgDesc'><p>Zoom in and click on a blue circle!<br><br>Search<br></p>
+  <input type="text" id="searchText" onkeypress="searchResort(event)"/>
+</div></div>
 <script src="resorts.js"></script>
 <script src="geoJsonData.js"></script>
+<script src="listeners.js"></script>
 </body>
 </html>

@@ -33,6 +33,11 @@ p {
   font-size: 0.85em;
 }
 
+#searchText {
+  margin-left: 10px;
+  width: 200px;
+}
+
 .map-overlay {
   position: absolute;
   bottom: 0;
@@ -46,7 +51,7 @@ p {
 
 #features {
   top: 0;
-  height: 100px;
+  height: 150px;
   margin-top: 20px;
   width: 250px;
 }
