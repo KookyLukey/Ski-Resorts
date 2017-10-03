@@ -8,7 +8,7 @@ function searchResort(event) {
     resortFeatures = geoJsonData.features;
     //loop through geojson data to find a matching resort
     for(i = 0; i < resortFeatures.length; i++){
-      if(resortFeatures[i].properties.name.toUpperCase() == inputResort.toUpperCase()){
+      if(resortFeatures[i].properties.name.toUpperCase().includes(inputResort.toUpperCase())){
         completed = false;
         map.flyTo({
           center: [resortFeatures[i].geometry.coordinates[0],resortFeatures[i].geometry.coordinates[1]],
