@@ -1,3 +1,6 @@
+/**
+* Luke O'Neill
+* CSS for Webpage */
 body {
   margin: 0;
   padding: 0;
@@ -33,9 +36,17 @@ p {
   font-size: 0.85em;
 }
 
+/**
+* Style search box
+ */
 #searchText {
-  margin-left: 10px;
-  width: 200px;
+  width: 90%;
+  padding: 10px 15px;
+  margin: 10px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
 }
 
 .map-overlay {

@@ -1,3 +1,6 @@
+//Luke O'Neill
+//File for handling listeners of events
+
 function searchResort(event) {
   let completed = true;
   var keyboardCode = event.which || event.keyCode;
