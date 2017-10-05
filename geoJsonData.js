@@ -740,7 +740,160 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Magic Mountain",
-        "description": "<strong>Magic Mountain</strong><p><a href=\"http://www.magicmountainresort.com/\" target=\"_blank\">Magic Mountain</a> Resort is a modest alpine ski area in south central Idaho, in a southern unit of the Sawtooth National Forest. It is east of Rogerson on the eastern edge of Twin Falls County, 18 miles (29 km) northwest of the Nevada-Utah border with Idaho.<a href=\"http://en.wikipedia.org/wiki/Magic_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Magic Mountain</strong><p><a href=\"http://www.magicmountainresort.com/\" target=\"_blank\">Magic Mountain</a> Resort is a modest alpine ski area in south central Idaho, in a southern unit of the Sawtooth National Forest. It is east of Rogerson on the eastern edge of Twin Falls County, 18 miles (29 km) northwest of the Nevada-Utah border with Idaho.<a href=\"http://en.wikipedia.org/wiki/Magic_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.723274666816,
+          46.62686165533709
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huff Hills",
+        "description": "<strong>Huff Hills</strong><p><a href=\"http://www.huffhills.com/\" target=\"_blank\">Huff Hills</a> Ski Area is a ski resort located sixteen miles south of Mandan, North Dakota. It was established in 1993 on the former site of the defunct Twilight Hills ski area, which operated during the 1960s.<a href=\"http://en.wikipedia.org/wiki/Huff_Hills\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.06759001687169,
+          48.91151110418307
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Frost Fire",
+        "description": "<strong>Frost Fire</strong><p><a href=\"http://www.frostfireskiarea.com/\" target=\"_blank\">Frost Fire</a>  Ski and Snowboard Area is a modest alpine ski area in the midwestern United States, in the Pembina River Gorge of northeastern North Dakota. Located in eastern Cavalier County, it is 7 miles (11 km) west of Walhalla and six miles (10 km) south of the international border with Canada (Manitoba).<a href=\"http://en.wikipedia.org/wiki/Frost_Fire_Ski_and_Snow_Board_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.47681184485555,
+          48.95118152307414
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bottineau Winter Park",
+        "description": "<strong>Bottineau Winter Park</strong><p><a href=\"http://www.skibwp.com/\" target=\"_blank\">Bottineau Winter Park</a> is a modest alpine ski area in the midwestern United States, nestled in the Turtle Mountains of north-central North Dakota. Located 10 miles (16 km) north of Bottineau and three miles (5 km) south of the international border with Canada (Manitoba) in Bottineau County, BWP covers 40 acres (0.16 km2) and was started in 1969 by local businessmen.<a href=\"http://en.wikipedia.org/wiki/Bottineau_Winter_Park\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.87799818813801,
+          36.19468531230967
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Beech Mountain",
+        "description": "<strong>Beech Mountain</strong><p><a href=\"http://www.beechmountainresort.com/\" target=\"_blank\">Beech Mountain</a> is a town in both Avery and Watauga counties in the U.S. state of North Carolina. As of the 2010 census, the city population was 320. The town is located atop Beech Mountain and is the highest town east of the Rocky Mountains.<a href=\"http://en.wikipedia.org/wiki/Beech_Mountain,_North_Carolina\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66255477815866,
+          36.17440487176431
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Appalachian Ski Mountain",
+        "description": "<strong>Appalachian Ski Mountain</strong><p><a href=\"http://www.appskimtn.com/\" target=\"_blank\">Appalachian Ski Mountain</a> is a ski area in the eastern United States, one of three ski mountains in the Watauga County area of western North Carolina. It is located off of US 321 between Blowing Rock and Boone.<a href=\"http://en.wikipedia.org/wiki/Appalachian_Ski_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08996321633458,
+          35.562440731116
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cataloochee",
+        "description": "<strong>Cataloochee</strong><p><a href=\"http://www.cataloochee.com/\" target=\"_blank\">Cataloochee</a> Ski Area is a ski area in the eastern United States in southwestern North Carolina, near Maggie Valley. With eighteen ski slopes and trails, approximately 44% are rated beginner, 39% intermediate, and 17% advanced. Its top elevation is 5,400 feet (1,646 m) above sea level, yielding a vertical drop of 740 feet (226 m). The slopes are accessed by three chairlifts and two carpet lifts.<a href=\"http://en.wikipedia.org/wiki/Cataloochee_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05871967226267,
+          35.124309440624984
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sapphire Valley",
+        "description": "<strong>Sapphire Valley</strong><p><a href=\"http://www.sapphirevalley.com/\" target=\"_blank\">Sapphire Valley</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85695894062519,
+          36.12993753385473
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sugar Mountain",
+        "description": "<strong>Sugar Mountain</strong><p><a href=\"http://www.skisugar.com/\" target=\"_blank\">Sugar Mountain</a> is a mountain in the North Carolina High Country and wholly in the Pisgah National Forest. Its elevation reaches 5,236 feet (1,596 m) and is split along the Eastern Continental Divide, generating feeder streams for the Linville, Elk, and North Toe rivers. On its north slope resides the Village of Sugar Mountain.<a href=\"http://en.wikipedia.org/wiki/Sugar_Mountain_(North_Carolina)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50904561020434,
+          35.955098047372815
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wolf Ridge",
+        "description": "<strong>Wolf Ridge</strong><p><a href=\"http://www.skiwolfridgenc.com/\" target=\"_blank\">Wolf Ridge</a> Ski Resort is a ski area in the eastern United States in western North Carolina, near Mars Hill. Five miles (8 km) from Interstate 26, it has twenty-three ski slopes and trails, with approximately 57% of the slopes are rated beginner, 35% intermediate, and 8% advanced. With a top elevation of 4,600 feet (1,402 m) above sea level, Wolf Ridge has a maximum vertical drop of 700 feet (213 m). The slopes are accessed by four chairlifts and two carpet lifts.<a href=\"http://en.wikipedia.org/wiki/Wolf_Ridge_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
