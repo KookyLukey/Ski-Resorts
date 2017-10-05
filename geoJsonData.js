@@ -893,7 +893,228 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Wolf Ridge",
-        "description": "<strong>Wolf Ridge</strong><p><a href=\"http://www.skiwolfridgenc.com/\" target=\"_blank\">Wolf Ridge</a> Ski Resort is a ski area in the eastern United States in western North Carolina, near Mars Hill. Five miles (8 km) from Interstate 26, it has twenty-three ski slopes and trails, with approximately 57% of the slopes are rated beginner, 35% intermediate, and 8% advanced. With a top elevation of 4,600 feet (1,402 m) above sea level, Wolf Ridge has a maximum vertical drop of 700 feet (213 m). The slopes are accessed by four chairlifts and two carpet lifts.<a href=\"http://en.wikipedia.org/wiki/Wolf_Ridge_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Wolf Ridge</strong><p><a href=\"http://www.skiwolfridgenc.com/\" target=\"_blank\">Wolf Ridge</a> Ski Resort is a ski area in the eastern United States in western North Carolina, near Mars Hill. Five miles (8 km) from Interstate 26, it has twenty-three ski slopes and trails, with approximately 57% of the slopes are rated beginner, 35% intermediate, and 8% advanced. With a top elevation of 4,600 feet (1,402 m) above sea level, Wolf Ridge has a maximum vertical drop of 700 feet (213 m). The slopes are accessed by four chairlifts and two carpet lifts.<a href=\"http://en.wikipedia.org/wiki/Wolf_Ridge_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52303989231586,
+          42.65296254809764
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alpine Valley",
+        "description": "<strong>Alpine Valley</strong><p><a href=\"http://www.skialpinevalley.com/\" target=\"_blank\">Alpine Valley</a> was opened in 1961 and has been open since. This resort, the largest in southeast Michigan, is host to multiple lifts with a range of runs available. [12] There are also terrain parks.<a href=\"http://en.wikipedia.org/wiki/White_Lake_Township,_Michigan\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10179320722818,
+          43.47261666672722
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apple Mountain",
+        "description": "<strong>Apple Mountain</strong><p><a href=\"http://www.applemountain.com/\" target=\"_blank\">Apple Mountain</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.09415157139301,
+          46.50976468021464
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Powederhorn Mountain",
+        "description": "<strong>Big Powederhorn Mountain</strong><p><a href=\"http://www.bigpowderhorn.com/\" target=\"_blank\">Big Powederhorn Mountain</a> is a 250-acre (1.0 km2) ski resort located in Gogebic County in the Upper Peninsula of Michigan, within Bessemer Township and Ironwood Township (between the cities of Bessemer and Ironwood). The mountain is part of the Gogebic Range with a summit of 1,640 ft (500m) and a base elevation of 1,240 ft (378m), for a 400 ft. vertical drop. It offers 33 trails for Alpine skiing and Snowboarding with an even mix of easy, intermediate, and difficult trail ratings and two terrain parks. Night skiing is currently available on Saturday nights.<a href=\"http://en.wikipedia.org/wiki/Big_Powderhorn_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.99818028882146,
+          46.50423753737104
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blackjack Mountain",
+        "description": "<strong>Blackjack Mountain</strong><p><a href=\"http://www.bigsnow.com/\" target=\"_blank\">Blackjack Mountain</a> is located in the Upper Peninsula of Michigan in Wakefield Township, Gogebic County. Indianhead Mountain is in an area called \"Big Snow Country\", so named because of the annual 200-inch (5.1 m) average snowfall, courtesy of the lake effect from Lake Superior. The area is home to several popular ski resorts such as Big Powderhorn and Blackjack Ski Resort.<a href=\"http://en.wikipedia.org/wiki/Indianhead_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.97095838189125,
+          46.5002829039397
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Indianhead Mountain",
+        "description": "<strong>Indianhead Mountain</strong><p><a href=\"http://www.bigsnow.com/\" target=\"_blank\">Indianhead Mountain</a> is located in the Upper Peninsula of Michigan in Wakefield Township, Gogebic County. Indianhead Mountain is in an area called \"Big Snow Country\", so named because of the annual 200-inch (5.1 m) average snowfall, courtesy of the lake effect from Lake Superior. The area is home to several popular ski resorts such as Big Powderhorn and Blackjack Ski Resort.<a href=\"http://en.wikipedia.org/wiki/Indianhead_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75871709734201,
+          42.467158592630355
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bittersweet",
+        "description": "<strong>Bittersweet</strong><p><a href=\"http://www.skibitterswee.com/\" target=\"_blank\">Bittersweet</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93577245622873,
+          45.46928814001897
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boyne Highlands",
+        "description": "<strong>Boyne Highlands</strong><p><a href=\"http://www.boyne.com/\" target=\"_blank\">Boyne Highlands</a> is a ski resort in Northern Michigan located near Harbor Springs, Michigan. It is now owned and operated by Boyne Resorts. It is the sister resort of Boyne Mountain.<a href=\"http://en.wikipedia.org/wiki/Boyne_Highlands\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92991216480732,
+          45.16343056102179
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boyne Mountain",
+        "description": "<strong>Boyne Mountain</strong><p><a href=\"http://www.boyne.com/\" target=\"_blank\">Boyne Mountain</a> is a ski resort with a collection of accommodations in Northern Michigan located near Boyne City operated by Boyne Resorts. The center piece is an upscale resort called The Mountain Grand Lodge and Spa. Boyne Mountain has continued use of the first chairlift built, originally constructed in Idaho in 1936 for use at a resort in Sun Valley, Idaho. It is also the location of Avalanche Bay, the largest indoor water park in Michigan. Boyne Mountain is the sister resort of Boyne Highlands.<a href=\"http://en.wikipedia.org/wiki/Boyne_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72058446705341,
+          44.244707127506686
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Caberfae Peaks",
+        "description": "<strong>Caberfae Peaks</strong><p><a href=\"http://www.caberfaepeaks.com/\" target=\"_blank\">Caberfae Peaks</a> is a downhill ski area located in the Lower Peninsula of Michigan near Cadillac, Michigan. It gets its name from the Gaelic word for \"stag's head\".<a href=\"http://en.wikipedia.org/wiki/Caberfae_Peaks_Ski_%26_Golf_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50125487148762,
+          43.054119635186765
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cannonsburg",
+        "description": "<strong>Cannonsburg</strong><p><a href=\"http://www.cannonsburg.com/\" target=\"_blank\">Cannonsburg</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99089983850718,
+          44.51939803049362
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crystal Mountain MI",
+        "description": "<strong>Crystal Mountain</strong><p><a href=\"http://www.crystalmountain.com/\" target=\"_blank\">Crystal Mountain</a> Resort is a resort and conference center located in Weldon Township, Benzie County, Michigan, just west of Thompsonville.<a href=\"http://en.wikipedia.org/wiki/Crystal_Mountain_(Michigan)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42052914574742,
+          46.50828603073088
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Marquette Mountain",
+        "description": "<strong>Marquette Mountain</strong><p><a href=\"http://www.marquettemountain.com/\" target=\"_blank\">Marquette Mountain</a> is a winter sports area for skiing and snow boarding, located within city limits a few miles south of downtown Marquette, Michigan, the major city in the state's Upper Peninsula. In the summer, Marquette Mountain offers activities such as mountain biking, and volleyball. The base area's parking lot is adjacent to highway M-553.<a href=\"http://en.wikipedia.org/wiki/Marquette_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.560048379004,
+          47.127848535950235
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mont Ripley",
+        "description": "<strong>Mont Ripley</strong><p><a href=\"http://www.http://www.mtu.edu/mont-ripley//\" target=\"_blank\">Mont Ripley</a> is a ski hill located in Franklin Township, Houghton County, in Michigan's Upper Peninsula. The site is just outside the cities of Hancock and Houghton. It is owned by Michigan Technological University. It was founded in the early 1900s (by Fred Lonsdorf). With the addition of snow making in 2000, the season has been extended from late November to late March or early April.<a href=\"http://en.wikipedia.org/wiki/Mont_Ripley\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
