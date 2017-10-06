@@ -18,7 +18,41 @@
 </style>
 <div id='map'></div>
 <div class='map-overlay' id='features'><h2>Ski Resort Locations Around the World</h2><div id='lgDesc'><p>Zoom in and click on a blue circle!<br></p>
-  <input type="text" id="searchText" onkeypress="searchResort(event)" placeholder="Search..."/>
+  <input type="text" id="searchText" onkeypress="searchResort(event)" placeholder="Search..."/><br><br>
+	<div class="passContainer">
+
+		<h2>Show Only:</h2>
+
+  	<ul>
+  	<li>
+    	<input type="radio" id="max-option" name="passSelector" onchange="filterPassResorts()">
+    	<label for="m-option">Max Pass</label>
+
+    	<div class="check"></div>
+  	</li>
+
+  	<li>
+    	<input type="radio" id="epic-option" name="passSelector" onchange="filterPassResorts()">
+    	<label for="e-option">Epic Pass</label>
+
+    	<div class="check"><div class="inside"></div></div>
+  	</li>
+
+  	<li>
+    	<input type="radio" id="boyne-option" name="passSelector" onchange="filterPassResorts()">
+    	<label for="b-option">Boyne</label>
+
+    	<div class="check"><div class="inside"></div></div>
+  	</li>
+
+		<li>
+    	<input type="radio" id="all-option" name="passSelector" onchange="filterPassResorts()">
+    	<label for="a-option">All</label>
+
+    	<div class="check"><div class="inside"></div></div>
+  	</li>
+		</ul>
+	</div>
 </div></div>
 <script src="resorts.js"></script>
 <script src="geoJsonData.js"></script>

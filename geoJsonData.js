@@ -107,6 +107,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "boyne",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1008,6 +1009,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "boyne",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1025,6 +1027,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "boyne",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
