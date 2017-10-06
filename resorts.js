@@ -18,6 +18,10 @@ map.on('load', function() {
 });
 
 function addClusteredLayers(){
+  if(map.getLayer('unclustered-point')){
+    map.removeLayer('unclustered-point');
+    map.removeSource('ncResorts');
+  }
   map.addSource("resorts", {
       type: "geojson",
       data: geoJsonData,

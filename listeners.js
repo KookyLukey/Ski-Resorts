@@ -32,8 +32,8 @@ function filterPassResorts(){
     addNonClustered('max');
   }else if(document.getElementById('epic-option').checked) {
     addNonClustered('epic');
-  }else if(document.getElementById('boyne-option').checked) {
-    addNonClustered('boyne');
+  }else if(document.getElementById('powder-option').checked) {
+    addNonClustered('powder');
   }else if(document.getElementById('all-option').checked){
     addClusteredLayers();
   }
@@ -41,16 +41,28 @@ function filterPassResorts(){
 
 //add non clustered points to the map for the specific passes
 function addNonClustered(selectedOption){
-  map.removeLayer('unclustered-point');
-  map.removeLayer('cluster-count');
-  map.removeLayer('clusters');
-  map.removeSource('resorts');
+  if(map.getLayer('unclustered-point')){
+    map.removeLayer('unclustered-point');
+  }
+  if(map.getLayer('cluster-count')){
+    map.removeLayer('cluster-count');
+  }
+  if(map.getLayer('clusters')){
+    map.removeLayer('clusters');
+  }
+  if(map.getSource('resorts')){
+    map.removeSource('resorts');
+  }
+  if(map.getSource('ncResorts')){
+    map.removeSource('ncResorts');
+  }
 
   map.addSource("ncResorts", {
       type: "geojson",
       data: geoJsonData,
       cluster: false
   });
+  
   map.addLayer({
       id: "unclustered-point",
       type: "circle",

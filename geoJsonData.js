@@ -107,7 +107,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "boyne",
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -125,6 +125,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -499,6 +500,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1009,7 +1011,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "boyne",
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1027,7 +1029,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "boyne",
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
