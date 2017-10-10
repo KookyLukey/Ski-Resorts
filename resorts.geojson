@@ -1132,7 +1132,6 @@
         ]
       },
       "properties": {
-        "pass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1392,7 +1391,347 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Treetops Resort",
-        "description": "<strong>Treetops Resort</strong><p><a href=\"http://www.treetops.com\" target=\"_blank\">Treetops Resort</a></p>"}
+        "description": "<strong>Treetops Resort</strong><p><a href=\"http://www.treetops.com\" target=\"_blank\">Treetops Resort</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25827089697123,
+          40.05804174737938
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hidden Valley",
+        "description": "<strong>Hidden Valley</strong><p><a href=\"http://www.hiddenvalleyresort.com\" target=\"_blank\">Hidden Valley</a> Resort is a ski resort in the Laurel Highlands, near the village of Hidden Valley, Pennsylvania.<a href=\"http://en.wikipedia.org/wiki/Hidden_Valley_Resort_(Pennsylvania)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29770473390818,
+          40.02296844768341
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Seven Springs",
+        "description": "<strong>Seven Springs</strong><p><a href=\"http://www.7springs.com\" target=\"_blank\">Seven Springs</a> Mountain Resort is an all-season resort located in Seven Springs, Pennsylvania. The resort is in the borough of Seven Springs, but some sources still list it as Champion, as it used to be.<a href=\"http://en.wikipedia.org/wiki/Seven_Springs_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6256920285523,
+          40.47628057404096
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bear Creek",
+        "description": "<strong>Bear Creek</strong><p><a href=\"http://www.bcmountainresort.com\" target=\"_blank\">Bear Creek</a> is a ski resort near Macungie, in the Berks County region of Pennsylvania, in the United States. The resort opened in 1967. It was known as the Doe Mountain until 1999.<a href=\"http://en.wikipedia.org/wiki/Bear_Creek_Ski_and_Recreation_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60292258858681,
+          41.048142557396
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Boulder",
+        "description": "<strong>Big Boulder</strong><p><a href=\"http://www.jfbb.com\" target=\"_blank\">Big Boulder</a> Ski Resort which opened in 1972, is located in Kidder Township, Carbon County, near White Haven, Pennsylvania. It is part of the Pocono region. Operated by Peak Resorts, it offers 20 trails and a terrain park for skiing and snowboarding.<a href=\"http://en.wikipedia.org/wiki/Jack_Frost_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65120704472065,
+          41.11001949660971
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jack Frost",
+        "description": "<strong>Jack Frost</strong><p><a href=\"http://www.jfbb.com\" target=\"_blank\">Jack Frost</a> Ski Resort which opened in 1972, is located in Kidder Township, Carbon County, near White Haven, Pennsylvania. It is part of the Pocono region. Operated by Peak Resorts, it offers 20 trails and a terrain park for skiing and snowboarding.<a href=\"http://en.wikipedia.org/wiki/Jack_Frost_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.54365916922688,
+          40.296879781520666
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blue Knob",
+        "description": "<strong>Blue Knob</strong><p><a href=\"http://www.blueknob.com\" target=\"_blank\">Blue Knob</a> is a Pennsylvania summit with a broad dome that is the northernmost 3,000-footer in the range of Allegheny Mountains. It is the highest point in Bedford County.<a href=\"http://en.wikipedia.org/wiki/Blue_Knob_(Pennsylvania)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51325919106603,
+          40.82213981310409
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blue Mountain",
+        "description": "<strong>Blue Mountain</strong><p><a href=\"http://www.skibluemt.com\" target=\"_blank\">Blue Mountain</a> resort is located near Palmerton, Pennsylvania, on Blue Mountain in the northern part of the Lehigh Valley, in Pennsylvania. Blue Mountain serves the Allentown, Philadelphia, New York City, and Wilmington urban areas, as well as Carbon County, Schuylkill County, and the Hazleton area.<a href=\"http://en.wikipedia.org/wiki/Blue_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.35517934709787,
+          41.05149629016475
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Camelback",
+        "description": "<strong>Camelback</strong><p><a href=\"http://www.skicamelback.com\" target=\"_blank\">Camelback</a> Mountain Resort is a ski and snowboard resort located in the Pocono Mountains region in Pocono Township and Jackson Township, Monroe County, Pennsylvania, adjacent to, and partially within Big Pocono State Park. In the 1950s when developers were working to expand the original solitary ski run, they negotiated with the then PA DER for permission to use a small portion of the state park for the ski area in exchange for $1 a year and the obligation to maintain the entire park.<a href=\"http://en.wikipedia.org/wiki/Camelback_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.09687987715006,
+          40.92034302035535
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Eagle Rock",
+        "description": "<strong>Eagle Rock</strong><p><a href=\"http://www.eaglerockresort.com\" target=\"_blank\">Eagle Rock</a> a ski and golf resort in Hazleton, Pennsylvania.<a href=\"http://en.wikipedia.org/wiki/Eagle_Rock\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55929310619831,
+          41.72052099690133
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Elk Mountain",
+        "description": "<strong>Elk Mountain</strong><p><a href=\"http://www.elkskier.com\" target=\"_blank\">Elk Mountain</a> Ski Resort is a ski area in the Endless Mountains on the summit of North Knob in Herrick Township, Susquehanna County, near Union Dale, Pennsylvania. It is located 30 miles north of Scranton, PA. The mountain has been given favorable reviews from Ski Magazine, including a listing in \"Six Unsung Heroes\", a roundup of hidden gems in skiing.<a href=\"http://en.wikipedia.org/wiki/Eagle_Rock\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37495549023151,
+          39.7635707626008
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Liberty Mountain",
+        "description": "<strong>Liberty Mountain</strong><p><a href=\"http://www.libertymountainresort.com\" target=\"_blank\">Liberty Mountain</a> Resort is a resort located in southern Pennsylvania. During the winter months the resort offers skiing, snowboarding, and snow tubing. The onsite hotel and lodge is open year-round and offers 99 rooms and multiple options for weddings and meetings. <a href=\"http://en.wikipedia.org/wiki/Liberty_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66291572526097,
+          41.35124058941901
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Montage Mountain",
+        "description": "<strong>Montage Mountain</strong><p><a href=\"http://www.montagemountainresorts.com\" target=\"_blank\">Montage Mountain</a> is a ski area in Pennsylvania, located 8 miles from downtown Scranton, Pennsylvania. It is located about 125 miles northwest of Philadelphia and New York City. There are 24 trails, 2 terrain parks, and Pennsylvania's longest snowtubing trails. The mountain has a summit elevation of 1,960 feet (600 m) and a vertical drop of 1,000 feet (300 m).<a href=\"http://en.wikipedia.org/wiki/Montage_Mountain_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07028587162495,
+          41.85098276868038
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Pleasant of Edinboro",
+        "description": "<strong>Mt Pleasant of Edinboro</strong><p><a href=\"http://www.skimountpleasant.com\" target=\"_blank\">Mt Pleasant of Edinboro</a> is a small ski resort nestled in the \"ski country\" snowbelt region of northwestern Pennsylvania, USA, near Edinboro, in Erie County. It offers an array of challenging terrain and conditions.<a href=\"http://en.wikipedia.org/wiki/Mount_Pleasant_of_Edinboro\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92754928022623,
+          40.109452682871066
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Roundtop Mountain",
+        "description": "<strong>Roundtop Mountain</strong><p><a href=\"http://www.skiroundtop.com\" target=\"_blank\">Roundtop Mountain</a> Resort is a resort located in south central Pennsylvania. During the winter months the resort offers skiing, snowboarding, and snowtubing.<a href=\"http://en.wikipedia.org/wiki/Roundtop_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08526178076863,
+          41.03961383966032
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shawnee Mountain",
+        "description": "<strong>Shawnee Mountain</strong><p><a href=\"http://www.shawneemt.com\" target=\"_blank\">Shawnee Mountain</a> is a family oriented ski resort in Eastern Pennsylvania located right outside East Stroudsburg, Pennsylvania, I-80, exit 309, next to the Delaware River in the easternmost part of The Poconos.<a href=\"http://en.wikipedia.org/wiki/Shawnee_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0235709734261,
+          41.52242504211088
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Bear",
+        "description": "<strong>Big Bear</strong><p><a href=\"http://www.ski-bigbear.com\" target=\"_blank\">Big Bear</a> is a skiing and snowboarding resort located in Lackawaxen Township, Pike County, Pennsylvania (in the Census Bureau CDP of Masthope). While open to the public, it is an amenity of the Masthope Mountain Community and community property owners receive a season pass as part of their annual community dues<a href=\"http://en.wikipedia.org/wiki/Ski_Big_Bear\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2907418385148,
+          41.518599384195554
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Sawmill",
+        "description": "<strong>Ski Sawmill</strong><p><a href=\"http://www.skisawmill.com\" target=\"_blank\">Ski Sawmill</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45005582738668,
+          40.272537344580144
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spring Mountain",
+        "description": "<strong>Spring Mountain</strong><p><a href=\"http://www.springmountainadventures.com\" target=\"_blank\">Spring Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75458278134465,
+          40.76940444829297
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tussey Mountain",
+        "description": "<strong>Tussey Mountain</strong><p><a href=\"http://www.tusseymountain.com\" target=\"_blank\">Tussey Mountain</a> Ski Area is located in Boalsburg, Centre County, Pennsylvania, near State College and Penn State University and is the gateway to the Rothrock State Forest. <a href=\"http://en.wikipedia.org/wiki/Tussey_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93327883817255,
+          39.74177111907544
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Whitetail",
+        "description": "<strong>Whitetail</strong><p><a href=\"http://www.tusseymountain.com\" target=\"_blank\">Whitetail</a> Mountain Resort is a four-season resort located on Two Top Mountain in the Tuscarora Mountains of Pennsylvania. The resort opened for skiing in 1991, and was acquired a few years later by Snow Time, Inc., the company which also manages Liberty Mountain Resort and Ski Roundtop.<a href=\"http://en.wikipedia.org/wiki/Whitetail_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
