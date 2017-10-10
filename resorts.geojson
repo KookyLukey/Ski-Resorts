@@ -1119,7 +1119,279 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Mont Ripley",
-        "description": "<strong>Mont Ripley</strong><p><a href=\"http://www.http://www.mtu.edu/mont-ripley//\" target=\"_blank\">Mont Ripley</a> is a ski hill located in Franklin Township, Houghton County, in Michigan's Upper Peninsula. The site is just outside the cities of Hancock and Houghton. It is owned by Michigan Technological University. It was founded in the early 1900s (by Fred Lonsdorf). With the addition of snow making in 2000, the season has been extended from late November to late March or early April.<a href=\"http://en.wikipedia.org/wiki/Mont_Ripley\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Mont Ripley</strong><p><a href=\"http://www.mtu.edu/mont-ripley//\" target=\"_blank\">Mont Ripley</a> is a ski hill located in Franklin Township, Houghton County, in Michigan's Upper Peninsula. The site is just outside the cities of Hancock and Houghton. It is owned by Michigan Technological University. It was founded in the early 1900s (by Fred Lonsdorf). With the addition of snow making in 2000, the season has been extended from late November to late March or early April.<a href=\"http://en.wikipedia.org/wiki/Mont_Ripley\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8115525431931,
+          42.540781372549596
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Brighton",
+        "description": "<strong>Mt Brighton</strong><p><a href=\"http://www.mtbrighton.com\" target=\"_blank\">Mt Brighton</a> is a ski and snowboard area in Brighton, Michigan, that opened in 1960. As no hills large enough for commercial skiing or snowboarding exist naturally in Brighton, Mt. Brighton's slopes are man-made and reach a maximum height of 230 vertical feet. Mt. Brighton has 5 chairlifts and 7 surface lifts. Silver is the longest and newest of the 25 runs, running 1,350 feet.<a href=\"http://en.wikipedia.org/wiki/Mount_Brighton\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02216354757547,
+          47.388591371588866
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Bohemia",
+        "description": "<strong>Mt Bohemia</strong><p><a href=\"http://www.mtbohemia.com\" target=\"_blank\">Mt Bohemia</a> is a ski resort located at the northern most portion of the Keweenaw Peninsula in Mohawk, Michigan. Mount Bohemia operates two chairlifts, and offers the second-highest vertical drop in the Midwest after Lutsen Mountains, located in the Sawtooth Mountains of northern Minnesota. The resort has 95 runs and first opened for business in 2000.<a href=\"http://en.wikipedia.org/wiki/Mount_Bohemia\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56415279209614,
+          42.830935470815646
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Holly",
+        "description": "<strong>Mt Holly</strong><p><a href=\"http://www.skimtholly.com\" target=\"_blank\">Mt Holly</a>, the largest ski/snowboard resort in southeastern Michigan, is located 3 miles (5 km) northeast of the village in Groveland Township. The ski area has 19 trails with a range of difficulty, and a high-speed quad chairlift. Also nearby is the state owned Holly Recreation Area.<a href=\"http://en.wikipedia.org/wiki/Holly,_Michigan\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51435084082186,
+          44.74347659669674
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Holiday",
+        "description": "<strong>Mt Holiday</strong><p><a href=\"http://www.mt-holiday.com\" target=\"_blank\">Mt Holiday</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2397176399827,
+          43.05778848586201
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mulligan's Hollow",
+        "description": "<strong>Mulligan's Hollow</strong><p><a href=\"http://www.mulliganshollow.com\" target=\"_blank\">Mulligan's Hollow</a> Ski Bowl is a family friendly, local ski hill situated in the dunes of Grand Haven, Michigan. It is located adjacent to the Tri-Cities YMCA. Originally built in 1960 through the help of volunteers, it has provided kids, teens, and families a local, comparatively inexpensive location to enjoy snow sports. In 2009, the day-to-day operations were handed from the City of Grand Haven to a new, volunteer organization named the Ski Bowl Association in an effort to remove the financial burden from the city's budget.<a href=\"http://en.wikipedia.org/wiki/Mulligan%27s_Hollow_Ski_Bowl\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86986000835896,
+          45.789484555068064
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Norway Mountain",
+        "description": "<strong>Norway Mountain</strong><p><a href=\"http://www.norwaymountain.com\" target=\"_blank\">Norway Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90409556776285,
+          45.4717710189743
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nubs Nob",
+        "description": "<strong>Nubs Nob</strong><p><a href=\"http://www.nubsnob.com\" target=\"_blank\">Nub's Nob</a> is a ski area located in the township of Pleasantview near Harbor Springs, Michigan. Opened by Norman and Dorie Sarns in 1958 as a small ski hill, it has sprawled out to a fairly large resort with eleven lifts. It gets its name from the nickname of founder Norman \"Nubby\" Sarns.<a href=\"http://en.wikipedia.org/wiki/Nub%27s_Nob\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36910489946604,
+          42.74563336686953
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pine Knob",
+        "description": "<strong>Pine Knob</strong><p><a href=\"http://www.skipineknob.com\" target=\"_blank\">Pine Knob</a> is a hill located in Independence Township, in Oakland County, near Clarkston, Michigan. The hill is classified as a summit.<a href=\"http://en.wikipedia.org/wiki/Pine_Knob\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0884338915348,
+          45.8393392770753
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pine Mountain",
+        "description": "<strong>Pine Mountain</strong><p><a href=\"http://www.pinemountainresort.com\" target=\"_blank\">Pine Mountain</a> Ski Jump is one of the highest artificially created ski jumps in the world, located in Iron Mountain, Michigan, Dickinson County.<a href=\"http://en.wikipedia.org/wiki/Pine_Mountain_Jump\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.18534664064646,
+          44.94853550611407
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shanty Creek - Summit Mountain",
+        "description": "<strong>Shanty Creek - Summit Mountain</strong><p><a href=\"http://www.shantycreek.com\" target=\"_blank\">Shanty Creek - Summit Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70051398873329,
+          46.02898656498048
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Brule",
+        "description": "<strong>Ski Brule</strong><p><a href=\"http://www.skibrule.com\" target=\"_blank\">Ski Brule</a> is a ski area located in Stambaugh Township, Iron County, near Iron River, Michigan. Its claim to fame is that it tries to open earlier and close later in the season than other nearby ski hills. It has sixteen ski runs and eleven ski lifts.<a href=\"http://en.wikipedia.org/wiki/Ski_Brule\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78094227612019,
+          43.959097743520694
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snow Snake",
+        "description": "<strong>Snow Snake</strong><p><a href=\"http://www.http://www.snowsnake.net\" target=\"_blank\">Snow Snake</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82711711525917,
+          41.954144512371315
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Swiss Valley",
+        "description": "<strong>Swiss Valley</strong><p><a href=\"http://www.skiswissvalley.com\" target=\"_blank\">Swiss Valley</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96434596925974,
+          44.913459194369416
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Homestead",
+        "description": "<strong>The Homestead</strong><p><a href=\"http://www.thehomesteadresort.com\" target=\"_blank\">The Homestead</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77919609844685,
+          42.39141272688017
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Timber Ridge",
+        "description": "<strong>Timber Ridge</strong><p><a href=\"http://www.timberridgeski.com\" target=\"_blank\">Timber Ridge</a> is a ski area located in Pine Grove Township, Van Buren County, near Gobles, Michigan. It is family oriented ski area that has eight lifts, two terrain parks, and a tubing park.<a href=\"http://en.wikipedia.org/wiki/Timber_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58922870457172,
+          45.03306191482937
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Treetops Resort",
+        "description": "<strong>Treetops Resort</strong><p><a href=\"http://www.treetops.com\" target=\"_blank\">Treetops Resort</a></p>"}
     }
   ]
 }
