@@ -1801,7 +1801,75 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Winterplace",
-        "description": "<strong>Winterplace</strong><p><a href=\"http://www.winterplace.com\" target=\"_blank\">Winterplace</a> Winterplace Ski Resort is a ski resort located in Ghent, West Virginia on Raleigh County's Flat Top Mountain. The southernmost ski resort in West Virginia,[1] Winterplace is a popular attraction due to its proximity to Interstate 77. <a href=\"http://en.wikipedia.org/wiki/Winterplace_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Winterplace</strong><p><a href=\"http://www.winterplace.com\" target=\"_blank\">Winterplace</a> Ski Resort is a ski resort located in Ghent, West Virginia on Raleigh County's Flat Top Mountain. The southernmost ski resort in West Virginia,[1] Winterplace is a popular attraction due to its proximity to Interstate 77. <a href=\"http://en.wikipedia.org/wiki/Winterplace_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76569435931742,
+          38.81746375071782
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bryce Resort",
+        "description": "<strong>Bryce Resort</strong><p><a href=\"http://www.bryceresort.com\" target=\"_blank\">Bryce Resort</a> is a ski area in the northern part of Virginia's Shenandoah Valley, opened in 1965 and located near the West Virginia border, 11 miles west of Mount Jackson, Virginia. The resort is very popular with residents of the valley, as well as families and tourists from the Washington, D.C. area, some 115 miles (185 km) away. <a href=\"http://en.wikipedia.org/wiki/Bryce_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75473560765386,
+          38.403533952629715
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Massanutten",
+        "description": "<strong>Massanutten</strong><p>In 1971, the <a href=\"http://www.massresort.com\" target=\"_blank\">Massanutten</a> Mountain ski lodge and four-season resort village was established near the southern peak. The private resort has nearly doubled in size since Great Eastern Resorts bought it in 1995. <a href=\"http://en.wikipedia.org/wiki/Massanutten_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94384626299143,
+          37.91488321191919
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wintergreen",
+        "description": "<strong>Wintergreen</strong><p><a href=\"http://www.wintergreenresort.com\" target=\"_blank\">Wintergreen</a> Resort is a four-season mountain resort on the eastern slopes of the Blue Ridge Mountains, located in Nelson County, Virginia and the town of Nellysford. The resort is also in close proximity to the cities of Lynchburg, Waynesboro, and Charlottesville, and within a three-hour drive of Washington, D.C.  <a href=\"http://en.wikipedia.org/wiki/Wintergreen_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.16666926816106,
+          37.35276956032901
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Liberty Mountain Snowflex",
+        "description": "<strong>Liberty Mountain Snowflex</strong><p><a href=\"http://www.liberty.edu\" target=\"_blank\">Liberty Mountain Snowflex</a> construction was completed in August 2009 on the Liberty Mountain Snowflex Centre, a synthetic ski slope featuring Snowflex; the Centre was designed by England’s Briton Engineering. It includes beginner, intermediate and advanced slopes, and is the first of its kind in the United States. <a href=\"http://en.wikipedia.org/wiki/Liberty_University\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
