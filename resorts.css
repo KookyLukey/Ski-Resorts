@@ -28,7 +28,6 @@ ul {
   margin: 10px;
   padding: 0;
 }
-
 /**
 * Create a position for the map
 * on the page */
@@ -75,6 +74,7 @@ ul {
 }
 
     input[type='radio']:after {
+        cursor:pointer;
         width: 15px;
         height: 15px;
         border-radius: 15px;
@@ -88,6 +88,7 @@ ul {
     }
 
     input[type='radio']:checked:after {
+        cursor:pointer;
         width: 15px;
         height: 15px;
         border-radius: 15px;

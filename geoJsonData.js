@@ -1732,7 +1732,76 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Whitetail",
-        "description": "<strong>Whitetail</strong><p><a href=\"http://www.tusseymountain.com\" target=\"_blank\">Whitetail</a> Mountain Resort is a four-season resort located on Two Top Mountain in the Tuscarora Mountains of Pennsylvania. The resort opened for skiing in 1991, and was acquired a few years later by Snow Time, Inc., the company which also manages Liberty Mountain Resort and Ski Roundtop.<a href=\"http://en.wikipedia.org/wiki/Whitetail_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Whitetail</strong><p><a href=\"http://www.skiwhitetail.com\" target=\"_blank\">Whitetail</a> Mountain Resort is a four-season resort located on Two Top Mountain in the Tuscarora Mountains of Pennsylvania. The resort opened for skiing in 1991, and was acquired a few years later by Snow Time, Inc., the company which also manages Liberty Mountain Resort and Ski Roundtop.<a href=\"http://en.wikipedia.org/wiki/Whitetail_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99360922724009,
+          38.410797846926116
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snowshoe",
+        "description": "<strong>Snowshoe</strong><p><a href=\"http://www.snowshoemtn.com\" target=\"_blank\">Snowshoe</a> Mountain is a ski resort in the eastern United States, located in Snowshoe, West Virginia. The resort has skiable terrain across 244 acres (99 ha) and covers a total area of 11,000 acres (44.5 km2) in the Allegheny Mountains, which are a part of the vast Appalachian Mountain Range.<a href=\"http://en.wikipedia.org/wiki/Snowshoe_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46521522477269,
+          39.02418279594548
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Canaan Valley",
+        "description": "<strong>Canaan Valley</strong><p><a href=\"http://www.canaanresort.com\" target=\"_blank\">Canaan Valley</a> Resort State Park is a state park in the eastern United States, within Canaan Valley in Tucker County, West Virginia.<a href=\"http://en.wikipedia.org/wiki/Canaan_Valley_Resort_State_Park\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39902635291219,
+          39.04245080117239
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Timberline Four Seasons",
+        "description": "<strong>Timberline Four Seasons</strong><p><a href=\"http://www.timberlineresort.com\" target=\"_blank\">Timberline Four Seasons</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11996535211802,
+          37.59574015285044
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Winterplace",
+        "description": "<strong>Winterplace</strong><p><a href=\"http://www.winterplace.com\" target=\"_blank\">Winterplace</a> Winterplace Ski Resort is a ski resort located in Ghent, West Virginia on Raleigh County's Flat Top Mountain. The southernmost ski resort in West Virginia,[1] Winterplace is a popular attraction due to its proximity to Interstate 77. <a href=\"http://en.wikipedia.org/wiki/Winterplace_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
