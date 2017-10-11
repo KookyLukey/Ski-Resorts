@@ -44,6 +44,9 @@ function addClusteredLayers(){
                   [2, "#DAF7A6"],
                   [4, "#f1f075"],
                   [8, "#f28cb1"],
+                  [15, "#EC644B"],
+                  [30, "#BE90D4"],
+                  [50, "#C8F7C5"],
               ]
           },
           "circle-radius": {
@@ -51,8 +54,10 @@ function addClusteredLayers(){
               type: "interval",
               stops: [
                   [0, 20],
-                  [100, 30],
-                  [750, 40]
+                  [4, 25],
+                  [10, 27.5],
+                  [15, 30],
+                  [50, 40]
               ]
           }
       }
