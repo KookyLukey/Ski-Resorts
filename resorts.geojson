@@ -1869,7 +1869,59 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Liberty Mountain Snowflex",
-        "description": "<strong>Liberty Mountain Snowflex</strong><p><a href=\"http://www.liberty.edu\" target=\"_blank\">Liberty Mountain Snowflex</a> construction was completed in August 2009 on the Liberty Mountain Snowflex Centre, a synthetic ski slope featuring Snowflex; the Centre was designed by England’s Briton Engineering. It includes beginner, intermediate and advanced slopes, and is the first of its kind in the United States. <a href=\"http://en.wikipedia.org/wiki/Liberty_University\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Liberty Mountain Snowflex</strong><p><a href=\"http://www.liberty.edu\" target=\"_blank\">Liberty Mountain Snowflex</a> construction was completed in August 2009 on the Liberty Mountain Snowflex Centre, a synthetic ski slope featuring Snowflex; the Centre was designed by England’s Briton Engineering. It includes beginner, intermediate and advanced slopes, and is the first of its kind in the United States. <a href=\"http://en.wikipedia.org/wiki/Liberty_University\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.11115661263466,
+          60.9592773734491
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alyeska",
+        "description": "<strong>Alyeska</strong><p><a href=\"http://www.alyeskaresort.com\" target=\"_blank\">Alyeska</a> Resort is a ski resort in Girdwood, Alaska, approximately 27 miles (44 km) from the city of Anchorage. Mount Alyeska is part of the Chugach mountain range and the Alyeska Resort is the largest ski area in the state. <a href=\"http://en.wikipedia.org/wiki/Alyeska_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.51267011463642,
+          58.27447643931244
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Eaglecrest",
+        "description": "<strong>Eaglecrest</strong><p><a href=\"http://www.skijuneau.com\" target=\"_blank\">Eaglecrest</a> Ski Area is a public ski area on Douglas Island in the U.S. state of Alaska, across Gastineau Channel from Juneau. Eaglecrest has 4 double chairlifts accessing 640 acres (2.6 km2), with 34 marked alpine runs, 3 Nordic skiing loops and access to world class backcountry. <a href=\"http://en.wikipedia.org/wiki/Eaglecrest_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.74496008828282,
+          61.14084552805248
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hilltop",
+        "description": "<strong>Hilltop</strong><p><a href=\"http://www.hilltopskiarea.org\" target=\"_blank\">Hilltop</a> Ski Area is a ski area in Anchorage, Alaska established in 1984. Located in Far North Bicentennial Park near Chugach State Park at the base of the Chugach Mountains, Hilltop Ski Area is owned and operated by Youth Exploring Adventure, Inc. <a href=\"http://en.wikipedia.org/wiki/Hilltop_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
