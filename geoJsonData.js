@@ -1921,7 +1921,92 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Hilltop",
-        "description": "<strong>Hilltop</strong><p><a href=\"http://www.hilltopskiarea.org\" target=\"_blank\">Hilltop</a> Ski Area is a ski area in Anchorage, Alaska established in 1984. Located in Far North Bicentennial Park near Chugach State Park at the base of the Chugach Mountains, Hilltop Ski Area is owned and operated by Youth Exploring Adventure, Inc. <a href=\"http://en.wikipedia.org/wiki/Hilltop_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Hilltop</strong><p><a href=\"http://www.hilltopskiarea.org\" target=\"_blank\">Hilltop</a> Ski Area is a ski area in Anchorage, Alaska established in 1984. Located in Far North Bicentennial Park near Chugach State Park at the base of the Chugach Mountains, Hilltop Ski Area is owned and operated by Youth Exploring Adventure, Inc. <a href=\"http://en.wikipedia.org/wiki/Hilltop_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5214233584702,
+          35.70891256466523
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ober Gatlinburg",
+        "description": "<strong>Ober Gatlinburg</strong><p><a href=\"http://www.obergatlinburg.com\" target=\"_blank\">Ober Gatlinburg</a> is an amusement park and ski area, located in the mountains overlooking Gatlinburg, Tennessee, USA. Established in 1962, the area contains a large mall with indoor amusements, a skating rink, snack bars, a full-service lounge, restaurant, and gift and clothing stores. <a href=\"http://en.wikipedia.org/wiki/Ober_Gatlinburg\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25974184367806,
+          41.526870955652896
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alpine Valley OH",
+        "description": "<strong>Alpine Valley</strong><p><a href=\"http://www.avohio.com\" target=\"_blank\">Alpine Valley</a> Ski Area is a ski resort located in Munson Township, Geauga County, in the U.S. state of Ohio, east of Chesterland. It was built in 1965 under the direction of Thomas D. Apthorp, who then continued to operate and manage the resort until 2007. <a href=\"http://en.wikipedia.org/wiki/Alpine_Valley_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56260879710317,
+          41.26487022708641
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boston Mills & Brandywine",
+        "description": "<strong>Boston Mills & Brandywine</strong><p><a href=\"http://www.bmbw.com\" target=\"_blank\">Boston Mills & Brandywine</a> Ski Resorts are a pair of sister ski resorts, owned by Peak Resorts, in Northeastern Ohio. The two locations were developed independently in the 1960s. <a href=\"http://en.wikipedia.org/wiki/Brandywine_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67471428588033,
+          40.31703335596318
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mad River Mountain",
+        "description": "<strong>Mad River Mountain</strong><p><a href=\"http://www.skimadriver.com\" target=\"_blank\">Mad River Mountain</a> is a ski and snowboard resort in Valley Hi, Ohio, United States. The elevation of Mad River Mountain is 1,460 feet (450 m) with a vertical drop of 300 ft (91 m), and it has a ski season that runs from December 1 through March 16. <a href=\"http://en.wikipedia.org/wiki/Mad_River_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50069530680776,
+          40.67278403492247
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snow Trails",
+        "description": "<strong>Snow Trails</strong><p><a href=\"http://www.snowtrails.com\" target=\"_blank\">Snow Trails</a></p>"}
     }
   ]
 }
