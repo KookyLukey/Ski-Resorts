@@ -2006,7 +2006,180 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Snow Trails",
-        "description": "<strong>Snow Trails</strong><p><a href=\"http://www.snowtrails.com\" target=\"_blank\">Snow Trails</a></p>"}
+        "description": "<strong>Snow Trails</strong><p><a href=\"http://www.snowtrails.com\" target=\"_blank\">Snow Trails</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22944299131632,
+          44.08276455560061
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Attitash",
+        "description": "<strong>Attitash</strong><p><a href=\"http://www.attitash.com\" target=\"_blank\">Attitash</a> Mountain Resort is a ski area located on U.S. Route 302 in Bartlett, New Hampshire, near North Conway. Constructed in 1938 by the Works Progress Administration, Attitash is operated by Peak Resorts under a special-use permit with the White Mountain National Forest. <a href=\"http://en.wikipedia.org/wiki/Attitash_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46023752167821,
+          44.25926026836965
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bretton Woods",
+        "description": "<strong>Bretton Woods</strong><p><a href=\"http://www.brettonwoods.com\" target=\"_blank\">Bretton Woods</a> Mountain Resort is a ski area located in Bretton Woods, New Hampshire, across from the Mount Washington Hotel. <a href=\"http://en.wikipedia.org/wiki/Bretton_Woods_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.70223362743855,
+          44.17709496072223
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cannon Mountain",
+        "description": "<strong>Cannon Mountain</strong><p><a href=\"http://www.cannonmt.com\" target=\"_blank\">Cannon Mountain</a> Ski Area is a state-owned ski resort located on Cannon Mountain in the White Mountains of New Hampshire, United States. Cannon is located within Franconia Notch State Park and offers 10 lifts servicing 265 acres (1.07 km2) of skiing (168 with snowmaking). <a href=\"http://en.wikipedia.org/wiki/Cannon_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09955802559853,
+          44.0568289914062
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cranmore",
+        "description": "<strong>Cranmore</strong><p><a href=\"http://www.cranmore.com\" target=\"_blank\">Cranmore</a> Mountain Resort, operating in the summer as Cranmore Mountain Adventure Park, is a ski area located in North Conway, New Hampshire, United States. It began operations in 1937, and was owned until 1984 by the Schneider family. During the late 1980s and 1990s, ownership of the resort changed hands several times; it is now owned by a group of New England businessmen and is undergoing several years of expansion and modernization. <a href=\"http://en.wikipedia.org/wiki/Cranmore_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63326950743794,
+          44.05642805534133
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Loon Mountain",
+        "description": "<strong>Loon Mountain</strong><p><a href=\"http://www.loonmtn.com\" target=\"_blank\">Loon Mountain</a> Ski Resort is a ski resort in Lincoln, Grafton County, New Hampshire, United States. It is located on Loon Mountain and sits within the White Mountain National Forest. Its vertical drop of 2,109 feet (643 m) is the tenth largest in New England. <a href=\"http://en.wikipedia.org/wiki/Loon_Mountain_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52512803673744,
+          43.96492832035387
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Waterville Valley",
+        "description": "<strong>Waterville Valley</strong><p><a href=\"http://www.waterville.com\" target=\"_blank\">Waterville Valley</a> is a ski resort in the northeast United States, located in the White Mountain National Forest of New Hampshire. Built on Mount Tecumseh, with a summit elevation of 4,004 feet (1,220 m) above sea level, the ski trails extend to a high point on the south ridge of the mountain at 3,840 feet (1,170 m), offering a vertical drop of 2,020 feet (615 m). <a href=\"http://en.wikipedia.org/wiki/Waterville_Valley_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.08013776689768,
+          43.33188563874858
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Sunapee",
+        "description": "<strong>Mt Sunapee</strong><p><a href=\"http://www.mountsunapee.com\" target=\"_blank\">Mt Sunapee</a> Mount Sunapee Resort is a ski area and resort located in Mount Sunapee State Park in Newbury, New Hampshire, United States. <a href=\"http://en.wikipedia.org/wiki/Mount_Sunapee_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79603282362223,
+          43.15944108767953
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pats Peak",
+        "description": "<strong>Pats Peak</strong><p><a href=\"http://www.patspeak.com\" target=\"_blank\">Pats Peak</a> is an independent alpine ski resort located in Henniker, New Hampshire, in the United States. The ski area opened in 1963 and has a vertical drop of 770 feet (230 m). It is roughly a 90-minute drive from Boston, Massachusetts. <a href=\"http://en.wikipedia.org/wiki/Pats_Peak\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.84201242402196,
+          43.48491527186434
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ragged Mountain",
+        "description": "<strong>Ragged Mountain</strong><p><a href=\"http://www.raggedmountainresort.com\" target=\"_blank\">Ragged Mountain</a> is a ski resort located on the northern side of Ragged Mountain in Danbury, New Hampshire, in the United States, with a vertical drop of 1,250 feet (380 m) and spread across 250 acres (100 ha). Offering three terrain parks and many glades, the resort is home to the only six-person chairlift in New Hampshire. <a href=\"http://en.wikipedia.org/wiki/Ragged_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23936297371984,
+          44.264089386129875
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wildcat Mountain",
+        "description": "<strong>Wildcat Mountain</strong><p><a href=\"http://www.skiwildcat.com\" target=\"_blank\">Wildcat Mountain</a> Ski Area is a ski area located on Wildcat Mountain near Jackson, New Hampshire, United States, in the Mount Washington Valley. Its vertical drop of 2,112 feet (644 m) is the second largest in New Hampshire and the ninth largest in New England. <a href=\"http://en.wikipedia.org/wiki/Wildcat_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
