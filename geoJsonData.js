@@ -2179,7 +2179,109 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Wildcat Mountain",
-        "description": "<strong>Wildcat Mountain</strong><p><a href=\"http://www.skiwildcat.com\" target=\"_blank\">Wildcat Mountain</a> Ski Area is a ski area located on Wildcat Mountain near Jackson, New Hampshire, United States, in the Mount Washington Valley. Its vertical drop of 2,112 feet (644 m) is the second largest in New Hampshire and the ninth largest in New England. <a href=\"http://en.wikipedia.org/wiki/Wildcat_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Wildcat Mountain</strong><p><a href=\"http://www.skiwildcat.com\" target=\"_blank\">Wildcat Mountain</a> Ski Area is a ski area located on Wildcat Mountain near Jackson, New Hampshire, United States, in the Mount Washington Valley. Its vertical drop of 2,112 feet (644 m) is the second largest in New Hampshire and the ninth largest in New England. <a href=\"http://en.wikipedia.org/wiki/Wildcat_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85032637417316,
+          44.42097685734063
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bolton Valley",
+        "description": "<strong>Bolton Valley</strong><p><a href=\"http://www.boltonvalley.com\" target=\"_blank\">Bolton Valley</a> is a mid-sized ski area in the town of Bolton in Chittenden County, Vermont, United States. It is located in close proximity to Burlington, the largest city in the state of Vermont. <a href=\"http://en.wikipedia.org/wiki/Bolton_Valley\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.93488033115864,
+          43.21351952948852
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bromley Mountain",
+        "description": "<strong>Bromley Mountain</strong><p><a href=\"http://www.bromley.com\" target=\"_blank\">Bromley Mountain</a> is located in southern Vermont, United States and is part of the Green Mountains. It is located in Bennington County, seven miles (11 km) east of Manchester, Vermont and just west of Peru, Vermont. It is a popular destination for skiing and snowboarding. <a href=\"http://en.wikipedia.org/wiki/Bromley_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90812881663442,
+          43.113437137534355
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stratton Mountain",
+        "description": "<strong>Stratton Mountain</strong><p><a href=\"http://www.stratton.com\" target=\"_blank\">Stratton Mountain</a> Resort is a ski area located on Stratton Mountain in Stratton, Vermont. <a href=\"http://en.wikipedia.org/wiki/Stratton_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.91630844026804,
+          44.5877776757586
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Burke Mountain",
+        "description": "<strong>Burke Mountain</strong><p><a href=\"http://www.skiburke.com\" target=\"_blank\">Burke Mountain</a> Ski resort is a mid-size ski resort open to skiing and snowboarding in northeast Vermont (aka Vermont's \"Northeast Kingdom\"). It is located on Burke Mountain, and is home to Burke Mountain Academy, a ski academy. <a href=\"http://en.wikipedia.org/wiki/Stratton_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.50492993742228,
+          44.93767614014845
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jay Peak",
+        "description": "<strong>Jay Peak</strong><p><a href=\"http://www.jaypeakresort.com\" target=\"_blank\">Jay Peak</a> Resort is an American ski resort located on Jay Peak in the Green Mountains, between the Village of Jay and Montgomery Center, Vermont. Its vertical drop of 2,153 feet (656 m) is the eighth largest in New England and the fifth largest in Vermont. <a href=\"http://en.wikipedia.org/wiki/Jay_Peak_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8029877319932,
+          43.61740941415325
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Killington",
+        "description": "<strong>Killington</strong><p><a href=\"http://www.killington.com\" target=\"_blank\">Killington</a> Mountain Resort & Ski Area is a ski resort in the northeast United States, near Killington, Vermont. It is the largest ski area in the eastern U.S., and has the largest vertical drop in New England at 3,050 feet (930 meters). Starting in the 2013–14 ski season, it was given the title \"Beast of the East.\" <a href=\"http://en.wikipedia.org/wiki/Killington_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
