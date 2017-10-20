@@ -2281,7 +2281,160 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Killington",
-        "description": "<strong>Killington</strong><p><a href=\"http://www.killington.com\" target=\"_blank\">Killington</a> Mountain Resort & Ski Area is a ski resort in the northeast United States, near Killington, Vermont. It is the largest ski area in the eastern U.S., and has the largest vertical drop in New England at 3,050 feet (930 meters). Starting in the 2013–14 ski season, it was given the title \"Beast of the East.\" <a href=\"http://en.wikipedia.org/wiki/Killington_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Killington</strong><p><a href=\"http://www.killington.com\" target=\"_blank\">Killington</a> Mountain Resort & Ski Area is a ski resort in the northeast United States, near Killington, Vermont. It is the largest ski area in the eastern U.S., and has the largest vertical drop in New England at 3,050 feet (930 meters). Starting in the 2013–14 ski season, it was given the title \"Beast of the East.\" <a href=\"http://en.wikipedia.org/wiki/Killington_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91755024343729,
+          44.202481692997026
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mad River Glen",
+        "description": "<strong>Mad River Glen</strong><p><a href=\"http://www.madriverglen.com\" target=\"_blank\">Mad River Glen</a> is a ski area in Fayston, Vermont. Its terrain has been ranked by SKI magazine as the most challenging on the east coast of the United States. <a href=\"http://en.wikipedia.org/wiki/Mad_River_Glen\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.77264960110188,
+          43.20171913724553
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Magic Mountain VT",
+        "description": "<strong>Magic Mountain VT</strong><p><a href=\"http://www.magicmtn.com\" target=\"_blank\">Magic Mountain</a> is a ski resort located on Glebe Mountain in Londonderry, Vermont. It features a 1,700-foot vertical drop. The summit is at 2,850 feet and the base at 1,150 feet. Magic and its base area have a long history, dating from the 1960s.  <a href=\"http://en.wikipedia.org/wiki/Magic_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89640203118324,
+          42.96929866803367
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mount Snow",
+        "description": "<strong>Mount Snow</strong><p><a href=\"http://www.mountsnow.com\" target=\"_blank\">Mount Snow</a> (previously known as Mount Pisgah) is a mountain resort and ski area in southern Vermont located in the Green Mountains. It is Vermont's closest big mountain to many Northeast metropolitan areas. <a href=\"http://en.wikipedia.org/wiki/Mount_Snow\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.71700985729694,
+          43.40160215411772
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Okemo",
+        "description": "<strong>Okemo</strong><p><a href=\"http://www.okemo.com\" target=\"_blank\">Okemo</a> Mountain Resort is a ski resort located in the town of Ludlow, Vermont, United States. The resort experienced 600,000 skier visits in 2009. Parents Magazine rated it the Top US Family Snow Resort. <a href=\"http://en.wikipedia.org/wiki/Okemo_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84101039171219,
+          43.651416562664785
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pico Mountain",
+        "description": "<strong>Pico Mountain</strong><p><a href=\"http://www.picomountain.com\" target=\"_blank\">Pico Mountain</a> Ski Area is a ski area located in Killington, Vermont, United States. Established in 1937, it was one of the first commercial ski resorts in the state. <a href=\"http://en.wikipedia.org/wiki/Pico_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.77938395738602,
+          44.52973964316802
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stowe",
+        "description": "<strong>Stowe</strong><p><a href=\"http://www.stowe.com\" target=\"_blank\">Stowe</a> Mountain Resort is a ski resort in the northeastern United States, near the town of Stowe in northern Vermont, comprising two separate mountains: Mount Mansfield and Spruce Peak. <a href=\"http://en.wikipedia.org/wiki/Stowe_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79009468853474,
+          44.58848062672188
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Smugglers' Notch",
+        "description": "<strong>Smugglers' Notch</strong><p><a href=\"http://www.smuggs.com\" target=\"_blank\">Smugglers' Notch</a> Resort is a ski resort area in the town of Cambridge, Vermont, United States, located near the village of Jeffersonville. Its vertical drop of 2,610 feet (800 m) is the fourth largest in New England and the third largest in Vermont. <a href=\"http://en.wikipedia.org/wiki/Smugglers%27_Notch_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87914101034403,
+          44.14572340612346
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sugarbush",
+        "description": "<strong>Sugarbush</strong><p><a href=\"http://www.sugarbush.com\" target=\"_blank\">Sugarbush</a> Resort is a ski resort located in the Mad River valley in Warren, Vermont. It is one of the largest ski resorts in New England. The resort encompasses more than 4000 acres (16 km²) total, 578 trail acres (2.34 km²) skiable, 53 miles (85 km) of trails, and 16 ski lifts. <a href=\"http://en.wikipedia.org/wiki/Sugarbush_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54327479749918,
+          43.66506215242978
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Suicide Six",
+        "description": "<strong>Suicide Six</strong><p><a href=\"http://www.woodstockinn.com\" target=\"_blank\">Suicide Six</a> is the name of a ski resort in South Pomfret, Vermont. It has some claim to historical fame as a very early ski resort. In January 1934, an improvised rope tow, said to be the first ski lift in the Eastern United States, was installed on a hill located on Clinton Gilbert's farm. <a href=\"http://en.wikipedia.org/wiki/Suicide_Six\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
