@@ -2226,6 +2226,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2277,6 +2278,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2345,6 +2347,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2362,6 +2365,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2434,7 +2438,77 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Suicide Six",
-        "description": "<strong>Suicide Six</strong><p><a href=\"http://www.woodstockinn.com\" target=\"_blank\">Suicide Six</a> is the name of a ski resort in South Pomfret, Vermont. It has some claim to historical fame as a very early ski resort. In January 1934, an improvised rope tow, said to be the first ski lift in the Eastern United States, was installed on a hill located on Clinton Gilbert's farm. <a href=\"http://en.wikipedia.org/wiki/Suicide_Six\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Suicide Six</strong><p><a href=\"http://www.woodstockinn.com\" target=\"_blank\">Suicide Six</a> is the name of a ski resort in South Pomfret, Vermont. It has some claim to historical fame as a very early ski resort. In January 1934, an improvised rope tow, said to be the first ski lift in the Eastern United States, was installed on a hill located on Clinton Gilbert's farm. <a href=\"http://en.wikipedia.org/wiki/Suicide_Six\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30810419470072,
+          45.05327967984597
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sugarloaf",
+        "description": "<strong>Sugarloaf</strong><p><a href=\"http://www.sugarloaf.com\" target=\"_blank\">Sugarloaf</a> (formerly Sugarloaf/USA) is a ski area and resort located on Sugarloaf Mountain in Carrabassett Valley, western Maine. It is the second largest ski resort east of the Mississippi in terms of skiable area (1,230 acres or 500 ha after Killington's 1,509 acres or 611 ha) and snowmaking percentage (95%); its continuous vertical drop of 2,820 feet (860 m) is the second longest in New England (after Killington's 3,050 feet (930 m)). <a href=\"http://en.wikipedia.org/wiki/Sugarloaf_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.84716685116291,
+          44.467172405287904
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sunday River",
+        "description": "<strong>Sunday River</strong><p><a href=\"http://www.sundayriver.com\" target=\"_blank\">Sunday River</a> is a ski resort located in Newry, Maine, in the United States. It is one of Maine's largest and most visited ski resorts. Its vertical drop of 2,340 feet (710 m) is the second largest in Maine (after Sugarloaf) and the sixth largest in New England. <a href=\"http://en.wikipedia.org/wiki/Sunday_River_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.81554444506764,
+          44.05899554124637
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shawnee Peak",
+        "description": "<strong>Shawnee Peak</strong><p><a href=\"http://www.shawneepeak.com\" target=\"_blank\">Shawnee Peak</a> is a ski resort located in Bridgton, Maine, in Cumberland County. <a href=\"http://en.wikipedia.org/wiki/Shawnee_Peak_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.52709046751261,
+          44.946211926423274
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Saddleback",
+        "description": "<strong>Saddleback</strong><p><a href=\"http://www.saddlebackmaine.com\" target=\"_blank\">Saddleback</a> Maine is a ski resort located in Sandy River Plantation, near Rangeley, Maine, on the northwestern slopes of Saddleback Mountain. It is the third largest ski area in Maine, in terms of number of trails (66), number of lifts (5), snowmaking percentage (85%), vertical drop (2000 ft) and skier days. <a href=\"http://en.wikipedia.org/wiki/Saddleback_Maine_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
