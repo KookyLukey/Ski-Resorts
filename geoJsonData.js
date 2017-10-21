@@ -2508,7 +2508,41 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Saddleback",
-        "description": "<strong>Saddleback</strong><p><a href=\"http://www.saddlebackmaine.com\" target=\"_blank\">Saddleback</a> Maine is a ski resort located in Sandy River Plantation, near Rangeley, Maine, on the northwestern slopes of Saddleback Mountain. It is the third largest ski area in Maine, in terms of number of trails (66), number of lifts (5), snowmaking percentage (85%), vertical drop (2000 ft) and skier days. <a href=\"http://en.wikipedia.org/wiki/Saddleback_Maine_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Saddleback</strong><p><a href=\"http://www.saddlebackmaine.com\" target=\"_blank\">Saddleback</a> Maine is a ski resort located in Sandy River Plantation, near Rangeley, Maine, on the northwestern slopes of Saddleback Mountain. It is the third largest ski area in Maine, in terms of number of trails (66), number of lifts (5), snowmaking percentage (85%), vertical drop (2000 ft) and skier days. <a href=\"http://en.wikipedia.org/wiki/Saddleback_Maine_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7103055305779,
+          35.33088188025679
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arizona Snowbowl",
+        "description": "<strong>Arizona Snowbowl</strong><p><a href=\"http://www.snowbowl.ski\" target=\"_blank\">Arizona Snowbowl</a> is an alpine ski resort in the southwest United States, located on the San Francisco Peaks of northern Arizona, seven miles (11 km) north of Flagstaff. The Snowbowl ski area covers approximately one percent of the San Francisco Peaks, and its slopes face west and northwest. <a href=\"http://en.wikipedia.org/wiki/Arizona_Snowbowl\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.56401797011495,
+          33.973647525561695
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sunrise Park",
+        "description": "<strong>Sunrise Park</strong><p><a href=\"http://www.sunriseskiparkaz.com\" target=\"_blank\">Sunrise Park</a> is a ski resort located near Greer, Arizona. The resort consists of three mountains named Sunrise Peak, Cyclone Peak, and Apache Peak. <a href=\"http://en.wikipedia.org/wiki/Sunrise_Park_Resort\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
