@@ -2542,7 +2542,92 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Sunrise Park",
-        "description": "<strong>Sunrise Park</strong><p><a href=\"http://www.sunriseskiparkaz.com\" target=\"_blank\">Sunrise Park</a> is a ski resort located near Greer, Arizona. The resort consists of three mountains named Sunrise Peak, Cyclone Peak, and Apache Peak. <a href=\"http://en.wikipedia.org/wiki/Sunrise_Park_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Sunrise Park</strong><p><a href=\"http://www.sunriseskiparkaz.com\" target=\"_blank\">Sunrise Park</a> is a ski resort located near Greer, Arizona. The resort consists of three mountains named Sunrise Peak, Cyclone Peak, and Apache Peak. <a href=\"http://en.wikipedia.org/wiki/Sunrise_Park_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27328820899129,
+          36.387679047679754
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Angel Fire",
+        "description": "<strong>Angel Fire</strong><p><a href=\"http://www.angelfireresort.com\" target=\"_blank\">Angel Fire</a> Resort is an alpine ski resort in Angel Fire, New Mexico, United States. The resort opened in 1966 and offers both winter and summer activities. <a href=\"http://en.wikipedia.org/wiki/Angel_Fire_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45008484274149,
+          36.59474512956567
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Taos",
+        "description": "<strong>Taos</strong><p><a href=\"http://www.skitaos.com\" target=\"_blank\">Taos</a> Ski Valley is a village and alpine ski resort in Taos County, New Mexico, United States. The population was 69 at the 2010 census. Until March 19, 2008, it was one of four ski resorts in America to prohibit snowboarding. <a href=\"http://en.wikipedia.org/wiki/Taos_Ski_Valley,_New_Mexico\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.39092179015279,
+          35.89501257103997
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pajarito Mountain",
+        "description": "<strong>Pajarito Mountain</strong><p><a href=\"http://www.skipajarito.com\" target=\"_blank\">Pajarito Mountain</a> is located on the north face of Pajarito Mountain, one of the Jemez Mountains in north central New Mexico, west of Los Alamos. It is located on 850 acres (3.4 km2) of privately owned land.<a href=\"http://en.wikipedia.org/wiki/Pajarito_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.41236074641347,
+          36.70930641228002
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Red River",
+        "description": "<strong>Red River</strong><p><a href=\"http://www.redriverskiarea.com\" target=\"_blank\">Red River</a> is a resort town in Taos County, New Mexico, United States located in the Sangre de Cristo Mountains. The population was 477 at the 2010 census. <a href=\"http://en.wikipedia.org/wiki/Red_River,_New_Mexico\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.41343776136637,
+          35.206995384592574
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sandia Peak",
+        "description": "<strong>Sandia Peak</strong><p><a href=\"http://www.sandiapeak.com\" target=\"_blank\">Sandia Peak</a> Tramway is an aerial tramway located adjacent to Albuquerque, New Mexico, USA. It stretches from the northeast edge of the city to the crestline of the Sandia Mountains[1] and has the world's third longest single span. <a href=\"http://en.wikipedia.org/wiki/Sandia_Peak_Tramway\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
