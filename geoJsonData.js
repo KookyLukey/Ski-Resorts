@@ -2627,7 +2627,58 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Sandia Peak",
-        "description": "<strong>Sandia Peak</strong><p><a href=\"http://www.sandiapeak.com\" target=\"_blank\">Sandia Peak</a> Tramway is an aerial tramway located adjacent to Albuquerque, New Mexico, USA. It stretches from the northeast edge of the city to the crestline of the Sandia Mountains[1] and has the world's third longest single span. <a href=\"http://en.wikipedia.org/wiki/Sandia_Peak_Tramway\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Sandia Peak</strong><p><a href=\"http://www.sandiapeak.com\" target=\"_blank\">Sandia Peak</a> Tramway is an aerial tramway located adjacent to Albuquerque, New Mexico, USA. It stretches from the northeast edge of the city to the crestline of the Sandia Mountains and has the world's third longest single span. <a href=\"http://en.wikipedia.org/wiki/Sandia_Peak_Tramway\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.54822150617838,
+          36.15422313465992
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sipapu",
+        "description": "<strong>Sipapu</strong><p><a href=\"http://www.sipapunm.com\" target=\"_blank\">Sipapu</a> is a moderately sized ski resort in Taos County, New Mexico. It is home to New Mexico’s longest ski season, from November to April. The peak elevation is 9,255 ft (2,821 m). <a href=\"http://en.wikipedia.org/wiki/Sipapu_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.78870836645365,
+          33.39738372235882
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Apache",
+        "description": "<strong>Ski Apache</strong><p><a href=\"http://www.skiapache.com\" target=\"_blank\">Ski Apache</a> is a ski resort in southern New Mexico, on the slopes of Sierra Blanca. It is owned and operated, since 1963, by the Mescalero Apache Tribe. Ski Apache is the only ski resort in New Mexico with its own gondola lift. <a href=\"http://en.wikipedia.org/wiki/Ski_Apache\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.80237158108503,
+          35.796255343378114
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Santa Fe",
+        "description": "<strong>Ski Santa Fe</strong><p><a href=\"http://www.skisantafe.com\" target=\"_blank\">Ski Santa Fe</a>, Santa Fe's ski area is about 16 mi (26 km) north of the city. <a href=\"http://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
