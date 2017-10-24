@@ -2678,7 +2678,92 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Ski Santa Fe",
-        "description": "<strong>Ski Santa Fe</strong><p><a href=\"http://www.skisantafe.com\" target=\"_blank\">Ski Santa Fe</a>, Santa Fe's ski area is about 16 mi (26 km) north of the city. <a href=\"http://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Ski Santa Fe</strong><p><a href=\"http://www.skisantafe.com\" target=\"_blank\">Ski Santa Fe</a>, Santa Fe's ski area is about 16 mi (26 km) north of the city. <a href=\"http://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.91397507488728,
+          39.25448833869158
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Diamond Peak",
+        "description": "<strong>Diamond Peak</strong><p><a href=\"http://www.diamondpeak.com\" target=\"_blank\">Diamond Peak</a> is a ski resort in the western United States, located in Incline Village, Nevada. Near the northeast shore of Lake Tahoe, the resort has 6 chairlifts, 30 runs, open glades, and tree skiing on its 655 acres (2.65 km2) of terrain. <a href=\"http://en.wikipedia.org/wiki/Diamond_Peak_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.88535657525063,
+          39.32845515755447
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Rose",
+        "description": "<strong>Mt Rose</strong><p><a href=\"http://www.skirose.com\" target=\"_blank\">Mt Rose</a> Ski Tahoe is the closest ski resort to Reno, Nevada. And the only ski resort that offers a 360 degree view into Nevada's Truckee Meadows and Lake Tahoe. <a href=\"http://en.wikipedia.org/wiki/Mount_Rose_Ski_Tahoe\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8725188523531,
+          39.336903058595404
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sky Tavern",
+        "description": "<strong>Sky Tavern</strong><p><a href=\"http://www.skytavern.com\" target=\"_blank\">Sky Tavern</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8524409122765,
+          40.9090653141361
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Elko SnoBowl",
+        "description": "<strong>Elko SnoBowl</strong><p></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.67964680492878,
+          36.303782088433664
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lee Canyon",
+        "description": "<strong>Lee Canyon</strong><p><a href=\"http://www.leecanyonlv.com\" target=\"_blank\">Lee Canyon</a> ski and snowboard resort is located in Lee Canyon, 35 miles northwest of Las Vegas, Nevada in the Humboldt-Toiyabe National Forest and Spring Mountains National Recreation Area. <a href=\"http://en.wikipedia.org/wiki/Lee_Canyon_(Ski_and_Snowboard_Resort)\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
