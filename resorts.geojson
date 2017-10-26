@@ -2763,7 +2763,75 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Lee Canyon",
-        "description": "<strong>Lee Canyon</strong><p><a href=\"http://www.leecanyonlv.com\" target=\"_blank\">Lee Canyon</a> ski and snowboard resort is located in Lee Canyon, 35 miles northwest of Las Vegas, Nevada in the Humboldt-Toiyabe National Forest and Spring Mountains National Recreation Area. <a href=\"http://en.wikipedia.org/wiki/Lee_Canyon_(Ski_and_Snowboard_Resort)\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Lee Canyon</strong><p><a href=\"http://www.leecanyonlv.com\" target=\"_blank\">Lee Canyon</a> ski and snowboard resort is located in Lee Canyon, 35 miles northwest of Las Vegas, Nevada in the Humboldt-Toiyabe National Forest and Spring Mountains National Recreation Area. <a href=\"http://en.wikipedia.org/wiki/Lee_Canyon_(Ski_and_Snowboard_Resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39379270747304,
+          42.31901834948136
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chestnut Mountain",
+        "description": "<strong>Chestnut Mountain</strong><p><a href=\"http://www.chestnutmtn.com\" target=\"_blank\">Chestnut Mountain</a> ski resort opened in 1959 and features two restaurants, a lodge with 119 rooms, an indoor pool and hot tub area, as well as several other accommodations. <a href=\"http://en.wikipedia.org/wiki/Chestnut_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08374706655741,
+          41.782577040867636
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Four Lakes",
+        "description": "<strong>Four Lakes</strong><p><a href=\"http://www.fourlakessnowsports.com\" target=\"_blank\">Four Lakes</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22016270831227,
+          42.01282962993793
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa Olivia",
+        "description": "<strong>Villa Olivia</strong><p><a href=\"http://www.villaolivia.com\" target=\"_blank\">Villa Olivia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7461965829134,
+          41.425223482352656
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snowstar Winter Sports Park",
+        "description": "<strong>Snowstar Winter Sports Park</strong><p><a href=\"http://www.skisnowstar.com\" target=\"_blank\">Snowstar Winter Sports Park</a> is a winter sports park, also known as Snowstar, located in Andalusia Township, Rock Island County, near Andalusia, Illinois, 10 minutes from the Quad Cities. Snowstar has 28 acres of ridable terrain. <a href=\"http://en.wikipedia.org/wiki/Ski_Snowstar\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
