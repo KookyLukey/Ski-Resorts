@@ -2831,7 +2831,177 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Snowstar Winter Sports Park",
-        "description": "<strong>Snowstar Winter Sports Park</strong><p><a href=\"http://www.skisnowstar.com\" target=\"_blank\">Snowstar Winter Sports Park</a> is a winter sports park, also known as Snowstar, located in Andalusia Township, Rock Island County, near Andalusia, Illinois, 10 minutes from the Quad Cities. Snowstar has 28 acres of ridable terrain. <a href=\"http://en.wikipedia.org/wiki/Ski_Snowstar\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Snowstar Winter Sports Park</strong><p><a href=\"http://www.skisnowstar.com\" target=\"_blank\">Snowstar Winter Sports Park</a> is a winter sports park, also known as Snowstar, located in Andalusia Township, Rock Island County, near Andalusia, Illinois, 10 minutes from the Quad Cities. Snowstar has 28 acres of ridable terrain. <a href=\"http://en.wikipedia.org/wiki/Ski_Snowstar\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6787888109684,
+          44.00334175529848
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Bachelor",
+        "description": "<strong>Mt Bachelor</strong><p><a href=\"http://www.mtbachelor.com\" target=\"_blank\">Mt Bachelor</a> ski resort is a ski resort located in central Oregon, approximately 22 miles (35 km) west of Bend, along the Century Drive Highway. <a href=\"http://en.wikipedia.org/wiki/Mount_Bachelor_ski_area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.71106114983559,
+          45.331120762234185
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Timberline Lodge",
+        "description": "<strong>Timberline Lodge</strong><p><a href=\"http://www.timberlinelodge.com\" target=\"_blank\">Timberline Lodge</a>  ski area is the ski and snowboarding area of Timberline Lodge, a National Historic Landmark in the U.S. state of Oregon. It is one of a few ski areas in the United States with most of the skiable terrain below the main lodge. <a href=\"http://en.wikipedia.org/wiki/Timberline_Lodge_ski_area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.66509881615639,
+          45.33187500352943
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Hood Meadows",
+        "description": "<strong>Mt Hood Meadows</strong><p><a href=\"http://www.skihood.com\" target=\"_blank\">Mt Hood Meadows</a> is one of the largest ski resorts in the U.S. state of Oregon and the largest ski resort near Mount Hood. It is located about 67 miles (108 km) east of Portland, and 35 miles (56 km) from Hood River along Oregon Route 35. <a href=\"http://en.wikipedia.org/wiki/Mount_Hood_Meadows\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77235666662455,
+          45.29480725302044
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Hood Skibowl",
+        "description": "<strong>Mt Hood Skibowl</strong><p><a href=\"http://www.skibowl.com\" target=\"_blank\">Mt Hood Skibowl</a> is a recreation area on Mount Hood located near Government Camp, Oregon. It is the largest night ski area in the United States, and the total skiable area encompasses an area of 960 acres (388 ha) (about two thirds of this is lit). <a href=\"http://en.wikipedia.org/wiki/Mount_Hood_Skibowl\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.87138684093952,
+          44.4087535550753
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hoodoo",
+        "description": "<strong>Hoodoo</strong><p><a href=\"http://www.skihoodoo.com\" target=\"_blank\">Hoodoo</a> is a recreation area on Mount Hood located near Government Camp, Oregon. It is the largest night ski area in the United States, and the total skiable area encompasses an area of 960 acres (388 ha) (about two thirds of this is lit). <a href=\"http://en.wikipedia.org/wiki/Hoodoo_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03650362789631,
+          43.60071911309534
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Willamette Pass",
+        "description": "<strong>Willamette Pass</strong><p><a href=\"http://www.willamettepass.com\" target=\"_blank\">Willamette Pass</a>is a ski area in the western United States, located at Willamette Pass in west central Oregon, in Klamath and Lane counties. <a href=\"http://en.wikipedia.org/wiki/Willamette_Pass_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.05093415081501,
+          45.75557701378564
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spout Springs",
+        "description": "<strong>Spout Springs</strong><p><a href=\"http://www.skihoodoo.com\" target=\"_blank\">Spout Springs</a> Ski Area is a modest ski area in the Blue Mountains of northeastern Oregon, within the Umatilla National Forest. <a href=\"http://en.wikipedia.org/wiki/Spout_Springs_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70475689321756,
+          42.08167779364853
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Ashland",
+        "description": "<strong>Mt Ashland</strong><p><a href=\"http://www.mtashland.com\" target=\"_blank\">Mt Ashland</a> ski area is located on 7,532-foot (2,296 m) Mount Ashland and features 23 trails on 200 acres (0.81 km2) served by four lifts, in addition to chute skiing in a glacial cirque called The Bowl. <a href=\"http://en.wikipedia.org/wiki/Mount_Ashland_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.60539753735065,
+          45.41250572308288
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cooper Spur",
+        "description": "<strong>Cooper Spur</strong><p><a href=\"http://www.cooperspur.com\" target=\"_blank\">Cooper Spur</a> ski area is a ski area located on northeast Mount Hood, Oregon, United States. The resort has one double chair ski lift serving ten runs, and a vertical drop of 110 meters (350 ft). <a href=\"http://en.wikipedia.org/wiki/Cooper_Spur_ski_area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23463328182697,
+          44.96396290409597
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Anthony Lakes",
+        "description": "<strong>Anthony Lakes</strong><p><a href=\"http://www.anthonylakes.com\" target=\"_blank\">Anthony Lakes</a> is a ski area located in eastern Oregon, near the cities of La Grande, and Baker City. The resort has one triple chairlift, and a vertical drop of 900 ft (274 m). <a href=\"http://en.wikipedia.org/wiki/Anthony_Lakes_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
