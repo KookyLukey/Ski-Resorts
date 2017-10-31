@@ -11,10 +11,11 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Snowbird",
-        "marker-color": "#0000ff",
-        "marker-symbol": "skiing",
-        "line": "blue"
+        "description": "<strong>Snowbird</strong><p><a href=\"http://www.snowbird.com\" target=\"_blank\">Snowbird</a> is an unincorporated community in Little Cottonwood Canyon in the Wasatch Range of the Rocky Mountains near Salt Lake County, Utah, U.S. It is most famous for Snowbird Ski and Summer Resort, an alpine skiing and snowboarding area, which opened in December 1971. <a href=\"http://en.wikipedia.org/wiki/Snowbird,_Utah\" target=\"_blank\">Wikipedia</a></p>"
       }
     },
     {
@@ -3001,7 +3002,92 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Anthony Lakes",
-        "description": "<strong>Anthony Lakes</strong><p><a href=\"http://www.anthonylakes.com\" target=\"_blank\">Anthony Lakes</a> is a ski area located in eastern Oregon, near the cities of La Grande, and Baker City. The resort has one triple chairlift, and a vertical drop of 900 ft (274 m). <a href=\"http://en.wikipedia.org/wiki/Anthony_Lakes_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Anthony Lakes</strong><p><a href=\"http://www.anthonylakes.com\" target=\"_blank\">Anthony Lakes</a> is a ski area located in eastern Oregon, near the cities of La Grande, and Baker City. The resort has one triple chairlift, and a vertical drop of 900 ft (274 m). <a href=\"http://en.wikipedia.org/wiki/Anthony_Lakes_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.54408484697342,
+          41.968137829676415
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Beaver Mountain",
+        "description": "<strong>Beaver Mountain</strong><p><a href=\"http://www.skithebeav.com\" target=\"_blank\">Beaver Mountain</a> is a ski area in the western United States, in northern Utah. First opened 78 years ago in 1939, it is located near the summit of Logan Canyon in the Bear River Mountains, west of Bear Lake and near the border with Idaho. While smaller and less developed than a number of Utah ski resorts, Beaver Mountain is very popular with residents of nearby Logan, Utah State University, the surrounding Cache Valley, and the Bear Lake region, including southeastern Idaho. <a href=\"http://en.wikipedia.org/wiki/Beaver_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.75639811903238,
+          41.926344225816365
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cherry Peak",
+        "description": "<strong>Cherry Peak</strong><p><a href=\"http://www.skicpr.com\" target=\"_blank\">Cherry Peak</a> is a ski area in northern Utah, opened in 2014 and first used for skiing in the 2015/2016 season. It is located in Cherry Canyon, east of Richmond, Utah in the Bear River Mountains. While smaller and less developed than a number of Utah ski resorts, Cherry Peak is close and convenient, low-cost and friendly, making it popular with residents of nearby Logan, Utah State University, and Cache Valley. <a href=\"http://en.wikipedia.org/wiki/Cherry_Peak_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7806650698185,
+          41.37898221565272
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Powder Mountain",
+        "description": "<strong>Powder Mountain</strong><p><a href=\"http://www.powdermountain.com\" target=\"_blank\">Powder Mountain</a> is a ski resort located just east of Eden, Utah, stretching between Weber and Cache counties, and only 55 miles from Salt Lake City International Airport. With over 7,900 acres of skiable terrain, 144 runs, snowcat skiing, side country skiing, backcountry tours and two terrain parks, Powder Mountain is the largest ski resort in the US by skiable acreage. <a href=\"http://en.wikipedia.org/wiki/Powder_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85690049082041,
+          41.21604343662511
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snowbasin",
+        "description": "<strong>Snowbasin</strong><p><a href=\"http://www.snowbasin.com\" target=\"_blank\">Snowbasin</a> is a ski resort in the western United States, located in Weber County, Utah, 33 miles (53 km) northeast of Salt Lake City, on the back side of the Wasatch Range. <a href=\"http://en.wikipedia.org/wiki/Snowbasin\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86484519392252,
+          41.31036049528804
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nordic Valley",
+        "description": "<strong>Nordic Valley</strong><p><a href=\"http://www.nordicvalley.com\" target=\"_blank\">Nordic Valley</a> is a small local ski area in the Ogden Valley near Eden, Utah. The area was known as Nordic Valley until June 29, 2005, when it was acquired by the nearby Wolf Creek Golf Resort. <a href=\"http://en.wikipedia.org/wiki/Wolf_Mountain\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
