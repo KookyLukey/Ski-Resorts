@@ -3145,7 +3145,473 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Brian Head",
-        "description": "<strong>Brian Head</strong><p><a href=\"http://www.brianhead.com\" target=\"_blank\">Brian Head</a> is a ski destination for Southern Utah and the southern California, Arizona, and Las Vegas areas. It is located 3.5 hours north of Las Vegas and four hours south of Salt Lake City. The resort is Utah's southernmost as well as its highest elevation ski resort. <a href=\"http://en.wikipedia.org/wiki/Brian_Head_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Brian Head</strong><p><a href=\"http://www.brianhead.com\" target=\"_blank\">Brian Head</a> is a ski destination for Southern Utah and the southern California, Arizona, and Las Vegas areas. It is located 3.5 hours north of Las Vegas and four hours south of Salt Lake City. The resort is Utah's southernmost as well as its highest elevation ski resort. <a href=\"http://en.wikipedia.org/wiki/Brian_Head_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.58267716318369,
+          39.93722176202453
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Eldora",
+        "description": "<strong>Eldora</strong><p><a href=\"http://www.eldora.com\" target=\"_blank\">Eldora</a> is a ski area in the southwest corner of Boulder County, Colorado, near the unincorporated community of Eldora and 3 miles (5 km) west of the town of Nederland. <a href=\"http://en.wikipedia.org/wiki/Eldora_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.76254073530436,
+          39.886854071814675
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Winter Park",
+        "description": "<strong>Winter Park</strong><p><a href=\"http://www.winterparkresort.com\" target=\"_blank\">Winter Park</a> is an alpine ski resort in Winter Park, Colorado in the Rocky Mountains. Located just off U.S. Highway 40, the resort is about a 90-minute drive from Denver, Colorado. <a href=\"http://en.wikipedia.org/wiki/Winter_Park_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.89793093502522,
+          39.680042489883014
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Loveland",
+        "description": "<strong>Loveland</strong><p><a href=\"http://www.skiloveland.com\" target=\"_blank\">Loveland</a> is a ski area in the western United States, located near the town of Georgetown, Colorado. Located at the eastern portal of the Eisenhower Tunnel, Loveland is within the Arapahoe National Forest. It is one of the closest ski areas to the Denver metropolitan area and Front Range corridor, making it popular with locals. <a href=\"http://en.wikipedia.org/wiki/Loveland_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8716882020235,
+          39.642321798647174
+        ]
+      },
+      "properties": {
+        "pass": "epic",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arapahoe Basin",
+        "description": "<strong>Arapahoe Basin</strong><p><a href=\"http://www.arapahoebasin.com\" target=\"_blank\">Arapahoe Basin</a> is an alpine ski area in the Rocky Mountains of the United States, in the White River National Forest of Colorado. Arapahoe Basin is known for its extended season—usually staying open until early June, and sometimes into early July, whereas most other northern ski areas close in early April. Arapahoe Basin is located south of Loveland Pass on U.S. Highway 6 in Summit County. <a href=\"http://en.wikipedia.org/wiki/Arapahoe_Basin\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.95452638342977,
+          39.60454125698215
+        ]
+      },
+      "properties": {
+        "pass": "epic",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Keystone",
+        "description": "<strong>Keystone</strong><p><a href=\"http://www.keystoneresort.com\" target=\"_blank\">Keystone</a> is a ski resort located in Keystone, Colorado, United States. and owned and operated by Vail Resorts. It consists of three mountains – Dercum Mountain, North Peak, the Outback – and five Bowls (Independence, Erickson, Bergman, North and South Bowls) offering skiing at all levels. <a href=\"http://en.wikipedia.org/wiki/Keystone_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.06669636443257,
+          39.48022659127693
+        ]
+      },
+      "properties": {
+        "pass": "epic",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Breckenridge",
+        "description": "<strong>Breckenridge</strong><p><a href=\"http://www.breckenridge.com\" target=\"_blank\">Breckenridge</a> is an alpine ski resort in the western United States, in Breckenridge, Colorado. Just west of the Continental Divide in Summit County, it is perennially one of the most visited ski resorts in the western hemisphere. <a href=\"http://en.wikipedia.org/wiki/Breckenridge_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.37341752648354,
+          39.63943842042647
+        ]
+      },
+      "properties": {
+        "pass": "epic",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vail",
+        "description": "<strong>Vail</strong><p><a href=\"http://www.vail.com\" target=\"_blank\">Vail</a> is located in Eagle County, Colorado, next to the town of Vail. At 5,289 acres (2,140 ha), it is the 3rd largest single mountain ski resort in the United States behind Big Sky and Park City, featuring seven bowls and intermediate gladed terrain in Blue Sky Basin. <a href=\"http://en.wikipedia.org/wiki/Vail_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.51671353727579,
+          39.60428293874429
+        ]
+      },
+      "properties": {
+        "pass": "epic",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Beaver Creek",
+        "description": "<strong>Beaver Creek</strong><p><a href=\"http://www.beavercreek.com\" target=\"_blank\">Beaver Creek</a> is a major ski resort in the western United States, near Avon, Colorado. The resort comprises three villages, the main Beaver Creek Village, Bachelor Gulch, and Arrowhead to the west. <a href=\"http://en.wikipedia.org/wiki/Beaver_Creek_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.15585450083017,
+          39.500062939546055
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Copper Mountain",
+        "description": "<strong>Copper Mountain</strong><p><a href=\"http://www.coppercolorado.com\" target=\"_blank\">Copper Mountain</a> is a mountain and ski resort located in Summit County, Colorado, about 75 miles (120 km) west of Denver on Interstate 70. The resort has 2,465 acres (10.0 km2) of in-bounds terrain under lease from the U.S. Forest Service, White River National Forest, Dillon Ranger District. It is operated by Powdr Corporation. <a href=\"http://en.wikipedia.org/wiki/Copper_Mountain_(Colorado)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.80452529340982,
+          40.45717667425129
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Steamboat",
+        "description": "<strong>Steamboat</strong><p><a href=\"http://www.steamboat.com\" target=\"_blank\">Steamboat</a> is a major ski area in northwestern Colorado, operated by the Steamboat Ski & Resort Corporation in Steamboat Springs. It is located on Mount Werner, a mountain in the Park Range in the Routt National Forest. The ski area first opened on January 12, 1963. <a href=\"http://en.wikipedia.org/wiki/Steamboat_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.96542874909937,
+          38.899772337516076
+        ]
+      },
+      "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crested Butte",
+        "description": "<strong>Crested Butte</strong><p><a href=\"http://www.skicb.com\" target=\"_blank\">Crested Butte</a> is a ski resort located at Mount Crested Butte in Gunnison County, Colorado, United States. <a href=\"http://en.wikipedia.org/wiki/Crested_Butte_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.94959759712219,
+          39.20911307976577
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aspen Snowmass",
+        "description": "<strong>Aspen Snowmass</strong><p><a href=\"http://www.aspensnowmass.com\" target=\"_blank\">Aspen Snowmass</a> is a winter resort complex located in Pitkin County in western Colorado in the United States. Owned and operated by the Aspen Skiing Company it comprises four skiing/snowboarding areas on four adjacent mountains in the vicinity of the towns of Aspen and Snowmass Village. The four areas collectively form one of the most famous winter resorts in the world and are annually the destination for visitors from all over the world. <a href=\"http://en.wikipedia.org/wiki/Aspen/Snowmass\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86084866523743,
+          39.20565471434283
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Buttermilk",
+        "description": "<strong>Buttermilk</strong><p><a href=\"http://www.aspensnowmass.com\" target=\"_blank\">Buttermilk</a> is a winter resort complex located in Pitkin County in western Colorado in the United States. Owned and operated by the Aspen Skiing Company it comprises four skiing/snowboarding areas on four adjacent mountains in the vicinity of the towns of Aspen and Snowmass Village. The four areas collectively form one of the most famous winter resorts in the world and are annually the destination for visitors from all over the world. <a href=\"http://en.wikipedia.org/wiki/Aspen/Snowmass\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.85569882392883,
+          39.18250588576655
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aspen Highlands",
+        "description": "<strong>Aspen Highlands</strong><p><a href=\"http://www.aspensnowmass.com\" target=\"_blank\">Aspen Highlands</a> is a winter resort complex located in Pitkin County in western Colorado in the United States. Owned and operated by the Aspen Skiing Company it comprises four skiing/snowboarding areas on four adjacent mountains in the vicinity of the towns of Aspen and Snowmass Village. The four areas collectively form one of the most famous winter resorts in the world and are annually the destination for visitors from all over the world. <a href=\"http://en.wikipedia.org/wiki/Aspen/Snowmass\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.81829005479813,
+          39.18629802649417
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aspen Mountain",
+        "description": "<strong>Aspen Mountain</strong><p><a href=\"http://www.aspensnowmass.com\" target=\"_blank\">Aspen Mountain</a> is a winter resort complex located in Pitkin County in western Colorado in the United States. Owned and operated by the Aspen Skiing Company it comprises four skiing/snowboarding areas on four adjacent mountains in the vicinity of the towns of Aspen and Snowmass Village. The four areas collectively form one of the most famous winter resorts in the world and are annually the destination for visitors from all over the world. <a href=\"http://en.wikipedia.org/wiki/Aspen/Snowmass\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.83818259835243,
+          37.91288562379697
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Telluride",
+        "description": "<strong>Telluride</strong><p><a href=\"http://www.tellurideskiresort.com\" target=\"_blank\">Telluride</a> is a ski resort located in Mountain Village, Colorado right next to the Town of Telluride. <a href=\"http://en.wikipedia.org/wiki/Telluride_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.66589894890785,
+          37.884608857503785
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Silverton",
+        "description": "<strong>Silverton</strong><p><a href=\"http://www.silvertonmountain.com\" target=\"_blank\">Silverton</a> is a ski resort near Silverton, Colorado USA that opened on January 19, 2002. Popular with skiers, Silverton Mountain has one chairlift that carries skiers into its terrain, which is for advanced and expert skiers. Avalanche gear is required to ride the lift at all times due to the unpatrolled and ungroomed nature of Silverton. <a href=\"http://en.wikipedia.org/wiki/Silverton_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30280854180455,
+          39.360786920133854
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Cooper",
+        "description": "<strong>Ski Cooper</strong><p><a href=\"http://www.skicooper.com\" target=\"_blank\">Ski Cooper</a> is an alpine ski resort in Colorado, one of the oldest in the state. Opened as Cooper Hill Ski Area 76 years ago in 1941, it now has two chairlifts (double and triple), one platter lift, and one magic carpet conveyor lift. <a href=\"http://en.wikipedia.org/wiki/Ski_Cooper\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.15073253586888,
+          39.069394152363586
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Powderhorn",
+        "description": "<strong>Powderhorn</strong><p><a href=\"http://www.powderhorn.com\" target=\"_blank\">Powderhorn</a> is located 45 minutes east of Grand Junction, Colorado on the Grand Mesa. The area has a variety of ski terrain such as groomers, bumps, glades, and boulder fields. Powderhorn is unique among Colorado ski resorts because of its terrain and climate. <a href=\"http://en.wikipedia.org/wiki/Powderhorn_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.81404439359903,
+          37.63027101811751
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Purgatory",
+        "description": "<strong>Purgatory</strong><p><a href=\"http://www.purgatoryresort.com\" target=\"_blank\">Purgatory</a> is a family-oriented ski resort located in the San Juan Mountains of Southwest Colorado, 26 miles (42 km) north of the town of Durango. It was originally opened by Ray Duncan in 1965 and offers 85 trails, including 2 terrain parks, the Paradise Freestyle Arena, Pitchfork Terrain Garden, and a Burton Riglet Park for young snowboarders. <a href=\"http://en.wikipedia.org/wiki/Purgatory_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.90602668002248,
+          40.0452260678003
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Granby Ranch",
+        "description": "<strong>Granby Ranch</strong><p><a href=\"http://www.granbyranch.com\" target=\"_blank\">Granby Ranch</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83797361329198,
+          40.48337224299222
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Howelsen Hill",
+        "description": "<strong>Howelsen Hill</strong><p><a href=\"http://www.steamboatsprings.net\" target=\"_blank\">Howelsen Hill</a> is a small ski area located on Howelsen Hill in Steamboat Springs, Colorado. As such, it is not a typical alpine ski area, as it includes a series of ski jumps, the largest at 114 metres. <a href=\"http://en.wikipedia.org/wiki/Howelsen_Hill_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.33304122835398,
+          38.5114250656393
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Monarch Mountain",
+        "description": "<strong>Monarch Mountain</strong><p><a href=\"http://www.skimonarch.com\" target=\"_blank\">Monarch Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7935830540955,
+          37.474764424058236
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wolf Creek",
+        "description": "<strong>Wolf Creek</strong><p><a href=\"http://www.wolfcreekski.com\" target=\"_blank\">Wolf Creek</a> is a ski area in southwest Colorado, located on the Wolf Creek Pass between Pagosa Springs and South Fork. It is best known for receiving more average annual snowfall than any other resort in Colorado, at about 480 inches per year. <a href=\"http://en.wikipedia.org/wiki/Wolf_Creek_ski_area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.05509837344289,
+          37.299596787654295
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hesperus",
+        "description": "<strong>Hesperus</strong><p><a href=\"http://www.ski-hesperus.com\" target=\"_blank\">Hesperus</a> is located near the town of Hesperus, Colorado, which is in the south west part of the state. It is off of U.S. Highway 160 just west of the town of the same name. <a href=\"http://en.wikipedia.org/wiki/Hesperus_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.51939161494374,
+          39.68458170799651
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Echo Mountain",
+        "description": "<strong>Echo Mountain</strong><p><a href=\"http://www.echomountainresort.com\" target=\"_blank\">Echo Mountain</a> is a ski and snowboard area located in Clear Creek County, west of Evergreen, Colorado. It is the closest ski area to the Denver metro area. <a href=\"http://en.wikipedia.org/wiki/Echo_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.33876005746424,
+          39.39978001546781
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sunlight Mountain",
+        "description": "<strong>Sunlight Mountain</strong><p><a href=\"http://www.sunlightmtn.com\" target=\"_blank\">Sunlight Mountain</a> is a ski area in Colorado, located in Garfield County in the White River National Forest, south of nearby Glenwood Springs. <a href=\"http://en.wikipedia.org/wiki/Sunlight_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
