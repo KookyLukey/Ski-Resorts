@@ -28,10 +28,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Alta",
-        "marker-color": "#0000ff",
-        "marker-symbol": "skiing",
-        "line": "blue"
+        "description": "<strong>Alta</strong><p><a href=\"http://www.alta.com\" target=\"_blank\">Alta</a> is a ski area in the western United States, located in the town of Alta in the Wasatch Mountains of Utah, in Salt Lake County. With a skiable area of 2,200 acres (8.9 km2), Alta's base elevation is 8,530 ft (2,600 m) and rises to 10,550 ft (3,216 m) for a vertical gain of 2,020 ft (616 m). One of the oldest ski resorts in the country, it opened its first lift in early 1939. <a href=\"http://en.wikipedia.org/wiki/Alta_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
       }
     },
     {
@@ -44,10 +45,12 @@
         ]
       },
       "properties": {
+        "pass": "max",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Brighton",
-        "marker-color": "#0000ff",
-        "marker-symbol": "skiing",
-        "line": "blue"
+        "description": "<strong>Brighton</strong><p><a href=\"http://www.brightonresort.com\" target=\"_blank\">Brighton</a> is a ski area located in Big Cottonwood Canyon, 30 miles (48 km) from downtown Salt Lake City, Utah. It is owned by CNL Lifestyle Properties and operated by Boyne Resorts. Brighton Ski Resort was the first ski resort in Utah, and one of the first in the United States. Brighton was started in 1936 when members of the Alpine Ski Club built a rope tow from wire and an old elevator motor. <a href=\"http://en.wikipedia.org/wiki/Brighton_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
       }
     },
     {
@@ -60,10 +63,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Solitude",
-        "marker-color": "#0000ff",
-        "marker-symbol": "skiing",
-        "line": "blue"
+        "description": "<strong>Solitude</strong><p><a href=\"http://www.solitudemountain.com\" target=\"_blank\">Solitude</a> is a ski resort located in the Big Cottonwood Canyon of the Wasatch Mountains, thirty miles southeast of Salt Lake City, Utah. With 66 trails, 1,200 acres (4.9 km2) and 2,047 feet (624 m) vertical, Solitude is one of the smaller ski resorts near Salt Lake City, along with its neighbor Brighton. <a href=\"http://en.wikipedia.org/wiki/Solitude_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
       }
     },
     {
@@ -76,26 +80,12 @@
         ]
       },
       "properties": {
+        "pass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Park City"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.5566349029541,
-          40.68490129057146
-        ]
-      },
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Canyons"
+        "name": "Park City",
+        "description": "<strong>Park City</strong><p><a href=\"http://www.parkcitymountain.com\" target=\"_blank\">Park City</a> is a ski resort in the western United States in Park City, Utah, located 32 miles (51 km) east of Salt Lake City. Opened in 1963, the resort has been a major tourist attraction for skiers from all over the United States, as well as a main employer for many of Park City's citizens. <a href=\"http://en.wikipedia.org/wiki/Park_City_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
       }
     },
     {
@@ -3087,7 +3077,75 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Nordic Valley",
-        "description": "<strong>Nordic Valley</strong><p><a href=\"http://www.nordicvalley.com\" target=\"_blank\">Nordic Valley</a> is a small local ski area in the Ogden Valley near Eden, Utah. The area was known as Nordic Valley until June 29, 2005, when it was acquired by the nearby Wolf Creek Golf Resort. <a href=\"http://en.wikipedia.org/wiki/Wolf_Mountain\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Nordic Valley</strong><p><a href=\"http://www.nordicvalley.com\" target=\"_blank\">Nordic Valley</a> is a small local ski area in the Ogden Valley near Eden, Utah. The area was known as Nordic Valley until June 29, 2005, when it was acquired by the nearby Wolf Creek Golf Resort. <a href=\"http://en.wikipedia.org/wiki/Wolf_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.47847834974527,
+          40.63766064484383
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Deer Valley",
+        "description": "<strong>Deer Valley</strong><p><a href=\"http://www.deervalley.com\" target=\"_blank\">Deer Valley</a> is an alpine ski resort in the Wasatch Range, located 36 miles (58 km) east of Salt Lake City, in Park City, Utah, United States. The resort, known for its upscale amenities, is consistently ranked among the top ski resorts in North America. <a href=\"http://en.wikipedia.org/wiki/Deer_Valley\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5778273716569,
+          40.39131006744188
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sundance",
+        "description": "<strong>Sundance</strong><p><a href=\"http://www.deervalley.com\" target=\"_blank\">Sundance</a> is a ski resort located 13 miles (21 km) northeast of Provo, Utah. It spans over 5,000 acres (2,000 ha) on the slopes of Mount Timpanogos in Utah's Wasatch Range. <a href=\"http://en.wikipedia.org/wiki/Sundance_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.38385800272226,
+          38.320317071083885
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Eagle Point",
+        "description": "<strong>Eagle Point</strong><p><a href=\"http://www.eaglepointresort.com\" target=\"_blank\">Eagle Point</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.84989760257304,
+          37.70214855106401
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Brian Head",
+        "description": "<strong>Brian Head</strong><p><a href=\"http://www.brianhead.com\" target=\"_blank\">Brian Head</a> is a ski destination for Southern Utah and the southern California, Arizona, and Las Vegas areas. It is located 3.5 hours north of Las Vegas and four hours south of Salt Lake City. The resort is Utah's southernmost as well as its highest elevation ski resort. <a href=\"http://en.wikipedia.org/wiki/Brian_Head_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
