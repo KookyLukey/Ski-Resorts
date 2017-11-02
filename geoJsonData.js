@@ -3611,7 +3611,279 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Sunlight Mountain",
-        "description": "<strong>Sunlight Mountain</strong><p><a href=\"http://www.sunlightmtn.com\" target=\"_blank\">Sunlight Mountain</a> is a ski area in Colorado, located in Garfield County in the White River National Forest, south of nearby Glenwood Springs. <a href=\"http://en.wikipedia.org/wiki/Sunlight_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Sunlight Mountain</strong><p><a href=\"http://www.sunlightmtn.com\" target=\"_blank\">Sunlight Mountain</a> is a ski area in Colorado, located in Garfield County in the White River National Forest, south of nearby Glenwood Springs. <a href=\"http://en.wikipedia.org/wiki/Sunlight_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.88842595554888,
+          34.23664999987921
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snow Summit",
+        "description": "<strong>Snow Summit</strong><p><a href=\"http://www.bigbearmountainresort.com\" target=\"_blank\">Snow Summit</a> formerly Goldmine Mountain, is a ski area in Southern California. When its neighbor, Snow Summit, bought Bear Mountain in 2002, the new entity, Big Bear Mountain Resorts, comprised the two, with a single lift ticket usable at both. <a href=\"http://en.wikipedia.org/wiki/Bear_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.86094228178263,
+          34.22906601988173
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bear Mountain",
+        "description": "<strong>Bear Mountain</strong><p><a href=\"http://www.bigbearmountainresort.com\" target=\"_blank\">Bear Mountain</a> formerly Goldmine Mountain, is a ski area in Southern California. When its neighbor, Snow Summit, bought Bear Mountain in 2002, the new entity, Big Bear Mountain Resorts, comprised the two, with a single lift ticket usable at both. <a href=\"http://en.wikipedia.org/wiki/Bear_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.04421861842275,
+          38.49256500712481
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bear Valley",
+        "description": "<strong>Bear Valley</strong><p><a href=\"http://www.bearvalley.com\" target=\"_blank\">Bear Valley</a> is a ski area located on highway 4 between Lake Tahoe and Yosemite—about three hours southeast of Sacramento, California. It is around one and a half hours from Angels Camp, California. <a href=\"http://en.wikipedia.org/wiki/Bear_Valley_(resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34982331097126,
+          39.336454963743535
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boreal",
+        "description": "<strong>Boreal</strong><p><a href=\"http://www.rideboreal.com\" target=\"_blank\">Boreal</a> is a ski area in Soda Springs, near the Lake Tahoe area of California. It has nine chair lifts and offers night skiing until 9 pm. It is owned by Powdr Corporation. <a href=\"http://en.wikipedia.org/wiki/Boreal_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33339830115438,
+          39.30044447746158
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sugar Bowl",
+        "description": "<strong>Sugar Bowl</strong><p><a href=\"http://www.sugarbowl.com\" target=\"_blank\">Sugar Bowl</a> is a ski and snowboard area in northern Placer County near Norden, California along the Donner Pass of the Sierra Nevada, approximately 46 mi (74 km) west of Reno, Nevada on Interstate 80, that opened on December 15, 1939. <a href=\"http://en.wikipedia.org/wiki/Sugar_Bowl_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33008309081197,
+          39.3182507571762
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Donner Ski Ranch",
+        "description": "<strong>Donner Ski Ranch</strong><p><a href=\"http://www.donnerskiranch.com\" target=\"_blank\">Donner Ski Ranch</a> is a budget-oriented, family owned ski area located on Donner Summit in the Tahoe National Forest of Nevada County, California. It is owned by Janet and Marshall Tuttle, who purchased it after it went into bankruptcy. <a href=\"http://en.wikipedia.org/wiki/Donner_Ski_Ranch\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12066308408976,
+          39.275047128442736
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Northstar",
+        "description": "<strong>Northstar</strong><p><a href=\"http://www.northstarcalifornia.com\" target=\"_blank\">Northstar</a> (previously Northstar-at-Tahoe) is a mountain resort in the western United States, located in Placer County, California, near the northwest shore of Lake Tahoe. <a href=\"http://en.wikipedia.org/wiki/Northstar_California\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23543866351247,
+          39.197606704881125
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Squaw Valley",
+        "description": "<strong>Squaw Valley</strong><p><a href=\"http://www.squawalpine.com\" target=\"_blank\">Squaw Valley</a> in Olympic Valley, California, is one of the largest ski areas in the United States, and was the host site of the entire 1960 Winter Olympics. It is the second-largest ski area in Lake Tahoe after Heavenly, with 30 chairlifts, 3,600 acres (15 km2) and the only funitel in the U.S. Since Squaw Valley joined forces with Alpine Meadows in 2012, the resorts offer joint access to 6,200 acres (25 km2), 43 lifts and over 270 trails. <a href=\"http://en.wikipedia.org/wiki/Squaw_Valley_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23868564516306,
+          39.1644613090021
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alpine Meadows",
+        "description": "<strong>Alpine Meadows</strong><p><a href=\"http://www.squawalpine.com\" target=\"_blank\">Alpine Meadows</a> in Olympic Valley, California, is one of the largest ski areas in the United States, and was the host site of the entire 1960 Winter Olympics. It is the second-largest ski area in Lake Tahoe after Heavenly, with 30 chairlifts, 3,600 acres (15 km2) and the only funitel in the U.S. Since Squaw Valley joined forces with Alpine Meadows in 2012, the resorts offer joint access to 6,200 acres (25 km2), 43 lifts and over 270 trails. <a href=\"http://en.wikipedia.org/wiki/Squaw_Valley_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16053143888712,
+          39.0855872900034
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Homewood",
+        "description": "<strong>Homewood</strong><p><a href=\"http://www.skihomewood.com\" target=\"_blank\">Homewood</a> is a ski area located on the west shore of Lake Tahoe in the state of California, a few miles south of Tahoe City in the town of Homewood. It has 1,260 acres (510 ha) of skiable terrain and seven lifts. <a href=\"http://en.wikipedia.org/wiki/Homewood_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.94060102850199,
+          38.93467685484034
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Heavenly",
+        "description": "<strong>Heavenly</strong><p><a href=\"http://www.skiheavenly.com\" target=\"_blank\">Heavenly</a> is a ski resort located on the California-Nevada border in South Lake Tahoe. It opened for business on Dec. 15, 1955 and has 97 runs and 30 lifts that are spread between California and Nevada and four base facilities. <a href=\"http://en.wikipedia.org/wiki/Heavenly_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.06516817957163,
+          38.684743461147896
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kirkwood",
+        "description": "<strong>Kirkwood</strong><p><a href=\"http://www.kirkwood.com\" target=\"_blank\">Kirkwood</a> is a year-round resort in Kirkwood, California south of Lake Tahoe that focuses on skiing and snowboarding in winter and hiking and mountain-biking in summer. Kirkwood is one of the region's larger resorts, and is well known for having one of the highest average snowfalls and a broad selection of advanced skiing terrain. <a href=\"http://en.wikipedia.org/wiki/Kirkwood_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.08090034127235,
+          38.79940006202209
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sierra-at-Tahoe",
+        "description": "<strong>Sierra-at-Tahoe</strong><p><a href=\"http://www.sierraattahoe.com\" target=\"_blank\">Sierra-at-Tahoe</a> is a ski and snowboard resort in Twin Bridges, California south of Lake Tahoe. Sierra-at-Tahoe is approximately 16 miles (26 km) south of Stateline, Nevada and 12 miles south of South Lake Tahoe on U.S. Route 50 and is contained within the Eldorado National Forest. Sierra-at-Tahoe (often shortened to \"Sierra\") is a medium sized ski area in the Lake Tahoe region, and is well known for being a more family oriented resort and also having a high annual snowfall. <a href=\"http://en.wikipedia.org/wiki/Sierra-at-Tahoe\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03681041672826,
+          37.650875233727234
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mammoth Mountain",
+        "description": "<strong>Mammoth Mountain</strong><p><a href=\"http://www.mammothmountain.com\" target=\"_blank\">Mammoth Mountain</a> is a large ski resort in the western United States, located in eastern California along the east side of the Sierra Nevada mountain range in the Inyo National Forest. <a href=\"http://en.wikipedia.org/wiki/Mammoth_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.09063044935465,
+          37.76792450149521
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "June Mountain",
+        "description": "<strong>June Mountain</strong><p><a href=\"http://www.junemountain.com\" target=\"_blank\">June Mountain</a> is a winter resort in the Eastern Sierra Nevada Mountains, located near June Lake, southeast of Yosemite National Park. <a href=\"http://en.wikipedia.org/wiki/June_Mountain_ski_area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.95723189786077,
+          38.19003391462668
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dodge Ridge",
+        "description": "<strong>Dodge Ridge</strong><p><a href=\"http://www.dodgeridge.com\" target=\"_blank\">Dodge Ridge</a> is a ski area near Pinecrest, California in Tuolumne County, off of Highway 108, 30 mi (48 km) east of Sonora. The resort in located in the Stanislaus National Forest and operates under a special use permit. <a href=\"http://en.wikipedia.org/wiki/Dodge_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }

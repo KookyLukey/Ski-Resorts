@@ -3832,7 +3832,58 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Sierra-at-Tahoe",
-        "description": "<strong>Sierra-at-Tahoe</strong><p><a href=\"http://www.sierraattahoe.com\" target=\"_blank\">Sierra-at-Tahoe</a> is a ski and snowboard resort in Twin Bridges, California south of Lake Tahoe. Sierra-at-Tahoe is approximately 16 miles (26 km) south of Stateline, Nevada and 12 miles south of South Lake Tahoe on U.S. Route 50 and is contained within the Eldorado National Forest. Sierra-at-Tahoe (often shortened to \"Sierra\") is a medium sized ski area in the Lake Tahoe region, and is well known for being a more family oriented resort and also having a high annual snowfall. <a href=\"http://en.wikipedia.org/wiki/Sierra-at-Tahoe\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Sierra-at-Tahoe</strong><p><a href=\"http://www.sierraattahoe.com\" target=\"_blank\">Sierra-at-Tahoe</a> is a ski and snowboard resort in Twin Bridges, California south of Lake Tahoe. Sierra-at-Tahoe is approximately 16 miles (26 km) south of Stateline, Nevada and 12 miles south of South Lake Tahoe on U.S. Route 50 and is contained within the Eldorado National Forest. Sierra-at-Tahoe (often shortened to \"Sierra\") is a medium sized ski area in the Lake Tahoe region, and is well known for being a more family oriented resort and also having a high annual snowfall. <a href=\"http://en.wikipedia.org/wiki/Sierra-at-Tahoe\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03681041672826,
+          37.650875233727234
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mammoth Mountain",
+        "description": "<strong>Mammoth Mountain</strong><p><a href=\"http://www.mammothmountain.com\" target=\"_blank\">Mammoth Mountain</a> is a large ski resort in the western United States, located in eastern California along the east side of the Sierra Nevada mountain range in the Inyo National Forest. <a href=\"http://en.wikipedia.org/wiki/Mammoth_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.09063044935465,
+          37.76792450149521
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "June Mountain",
+        "description": "<strong>June Mountain</strong><p><a href=\"http://www.junemountain.com\" target=\"_blank\">June Mountain</a> is a winter resort in the Eastern Sierra Nevada Mountains, located near June Lake, southeast of Yosemite National Park. <a href=\"http://en.wikipedia.org/wiki/June_Mountain_ski_area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.95723189786077,
+          38.19003391462668
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dodge Ridge",
+        "description": "<strong>Dodge Ridge</strong><p><a href=\"http://www.dodgeridge.com\" target=\"_blank\">Dodge Ridge</a> is a ski area near Pinecrest, California in Tuolumne County, off of Highway 108, 30 mi (48 km) east of Sonora. The resort in located in the Stanislaus National Forest and operates under a special use permit. <a href=\"http://en.wikipedia.org/wiki/Dodge_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
