@@ -3883,7 +3883,143 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Dodge Ridge",
-        "description": "<strong>Dodge Ridge</strong><p><a href=\"http://www.dodgeridge.com\" target=\"_blank\">Dodge Ridge</a> is a ski area near Pinecrest, California in Tuolumne County, off of Highway 108, 30 mi (48 km) east of Sonora. The resort in located in the Stanislaus National Forest and operates under a special use permit. <a href=\"http://en.wikipedia.org/wiki/Dodge_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Dodge Ridge</strong><p><a href=\"http://www.dodgeridge.com\" target=\"_blank\">Dodge Ridge</a> is a ski area near Pinecrest, California in Tuolumne County, off of Highway 108, 30 mi (48 km) east of Sonora. The resort in located in the Stanislaus National Forest and operates under a special use permit. <a href=\"http://en.wikipedia.org/wiki/Dodge_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.38016261532903,
+          39.32128857895764
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Soda Springs",
+        "description": "<strong>Soda Springs</strong><p><a href=\"http://www.skisodasprings.com\" target=\"_blank\">Soda Springs</a> Ski Resort is located just off Highway 80 near the Donner Summit. <a href=\"http://en.wikipedia.org/wiki/Soda_Springs,_Nevada_County,_California\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.25923136621714,
+          39.35428526196585
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tahoe Donner",
+        "description": "<strong>Tahoe Donner</strong><p><a href=\"http://www.tahoedonner.com\" target=\"_blank\">Tahoe Donner</a> is a small ski resort with four ski lifts and 14 trails, in Truckee, California 4.5 mi (7.2 km) northeast of Donner Pass. There are two chairlifts and one rope-tow. <a href=\"http://en.wikipedia.org/wiki/Tahoe_Donner_Downhill\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.03617753461003,
+          34.22489010424294
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snow Valley",
+        "description": "<strong>Snow Valley</strong><p><a href=\"http://www.snow-valley.com\" target=\"_blank\">Snow Valley</a> is a ski resort located in Running Springs, California, United States. It is the oldest continually operating ski resort in Southern California and is also one of four ski resorts in the San Bernardino National Forest. <a href=\"http://en.wikipedia.org/wiki/Snow_Valley_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.15727378800511,
+          37.23652564709937
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "China Peak",
+        "description": "<strong>China Peak</strong><p><a href=\"http://www.skichinapeak.com\" target=\"_blank\">China Peak</a> is a ski area in Central California. It opened in 1958, named after the mountain, Chinese Peak. The original owner was Knut Flint who had been part of a worldwide helicopter services company. <a href=\"http://en.wikipedia.org/wiki/China_Peak\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20350416377187,
+          41.321106164924686
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Shasta",
+        "description": "<strong>Mt Shasta</strong><p><a href=\"http://www.skipark.com\" target=\"_blank\">Mt Shasta</a> is a ski resort located in northern California, just east of Interstate 5 along SR 89 between the city of Mount Shasta and the town of McCloud. The ski area lies about 6 mi (9.7 km) south of the summit of 14,179 ft (4,322 m) Mount Shasta, the second highest volcano in the Cascade Range. <a href=\"http://en.wikipedia.org/wiki/Mount_Shasta_Ski_Park\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.62190945446491,
+          34.27007345933773
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Baldy",
+        "description": "<strong>Mt Baldy</strong><p><a href=\"http://www.mtbaldyresort.com\" target=\"_blank\">Mt Baldy</a> is a ski resort located on Mount San Antonio—Mount Baldy in the San Gabriel Mountains. It is in San Bernardino County, Southern California. It is located 45 mi (72 km) from Los Angeles, the closest ski resort to the city. <a href=\"http://en.wikipedia.org/wiki/Mount_Baldy_Ski_Lifts\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69148126244545,
+          34.37700301276576
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mountain High",
+        "description": "<strong>Mountain High</strong><p><a href=\"http://www.mtbaldyresort.com\" target=\"_blank\">Mountain High</a> resort is a winter resort in the San Gabriel Mountains in Los Angeles County in California. Mountain High is the most-visited resort in Southern California. The resort is located along State Route 2 west of Wrightwood, California. <a href=\"http://en.wikipedia.org/wiki/Mountain_High\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.66335717588663,
+          37.662271894384695
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yosemite Ski Area",
+        "description": "<strong>Yosemite Ski Area</strong><p><a href=\"http://www.travelyosemite.com\" target=\"_blank\">Yosemite Ski Area</a></p>"}
     }
   ]
 }
