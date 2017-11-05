@@ -4394,7 +4394,24 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Mt Kato",
-        "description": "<strong>Mt Kato</strong><p><a href=\"http://www.mountkato.com\" target=\"_blank\">Mt Kato</a> is a winter sports facility in Minnesota, offering facilities for skiing, snowboarding, snow tubing and mountain biking. Mount Kato offers 19 trails on 55 skiable acres. <a href=\"http://en.wikipedia.org/wiki/Mount_Kato\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Mt Kato</strong><p><a href=\"http://www.mountkato.com\" target=\"_blank\">Mt Kato</a> is a winter sports facility in Minnesota, offering facilities for skiing, snowboarding, snow tubing and mountain biking. Mount Kato offers 19 trails on 55 skiable acres. <a href=\"http://en.wikipedia.org/wiki/Mount_Kato\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52726056054235,
+          41.517599253656954
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yawgoo Valley",
+        "description": "<strong>Yawgoo Valley</strong><p><a href=\"http://www.yawgoo.com\" target=\"_blank\">Yawgoo Valley</a> is the only skiing resort in Rhode Island. It is located on a hill in Exeter, south of Providence and opened in the 1965-66 season as \"Rhode Island's first chairlift served ski area.\" <a href=\"http://en.wikipedia.org/wiki/Yawgoo_Valley\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
