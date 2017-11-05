@@ -4019,7 +4019,177 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Yosemite Ski Area",
-        "description": "<strong>Yosemite Ski Area</strong><p><a href=\"http://www.travelyosemite.com\" target=\"_blank\">Yosemite Ski Area</a></p>"}
+        "description": "<strong>Yosemite Ski Area</strong><p><a href=\"http://www.travelyosemite.com\" target=\"_blank\">Yosemite Ski Area</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56291393190622,
+          48.30109918385559
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "49 Degrees North",
+        "description": "<strong>49 Degrees North</strong><p><a href=\"http://www.ski49n.com\" target=\"_blank\">49 Degrees North</a> is a ski resort in the western United States, located inside Colville National Forest in Stevens County, Washington, 10 miles (16 km) east of Chewelah, which is 42 miles (68 km) north of Spokane. <a href=\"http://en.wikipedia.org/wiki/49_Degrees_North_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42591014504433,
+          47.44413999346601
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alpental",
+        "description": "<strong>Alpental</strong><p><a href=\"http://www.summitatsnoqualmie.com\" target=\"_blank\">Alpental</a> is a winter resort in the northwest United States, located on Snoqualmie Pass, Washington. It provides alpine skiing and snowboarding, Nordic skiing, and winter tubing. Owned by CNL Investment Properties, Inc. and managed by Boyne Resorts, it is 52 miles (80 km) east of downtown Seattle on Interstate 90. <a href=\"http://en.wikipedia.org/wiki/The_Summit_at_Snoqualmie\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42112508416176,
+          47.42048009857098
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Summit at Snoqualmie",
+        "description": "<strong>The Summit at Snoqualmie</strong><p><a href=\"http://www.summitatsnoqualmie.com\" target=\"_blank\">The Summit at Snoqualmie</a> is a winter resort in the northwest United States, located on Snoqualmie Pass, Washington. It provides alpine skiing and snowboarding, Nordic skiing, and winter tubing. Owned by CNL Investment Properties, Inc. and managed by Boyne Resorts, it is 52 miles (80 km) east of downtown Seattle on Interstate 90. <a href=\"http://en.wikipedia.org/wiki/The_Summit_at_Snoqualmie\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.85354737192392,
+          46.09173455577613
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bluewood",
+        "description": "<strong>Bluewood</strong><p><a href=\"http://www.bluewood.com\" target=\"_blank\">Bluewood</a> is an alpine ski area in the northwestern United States, in southeastern Washington. Located in Columbia County, at the northern end of the Blue Mountains in the Umatilla National Forest, the elevation at the base area is 4,545 feet (1,385 m) above sea level, with a summit of 5,670 feet (1,728 m) for a vertical drop of 1,125 feet (343 m). <a href=\"http://en.wikipedia.org/wiki/Ski_Bluewood\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4748472161591,
+          46.93533413962562
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crystal Mountain",
+        "description": "<strong>Crystal Mountain</strong><p><a href=\"http://www.crystalmountainresort.com\" target=\"_blank\">Crystal Mountain</a> is a mountain and alpine ski area in the western United States, in the Cascade Range of Washington, southeast of Seattle. <a href=\"http://en.wikipedia.org/wiki/Crystal_Mountain_(Washington)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.66666522622108,
+          48.85731758952206
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Baker",
+        "description": "<strong>Mt Baker</strong><p><a href=\"http://www.mtbaker.us\" target=\"_blank\">Mt Baker</a> is a ski resort in the northwest United States, located in Whatcom County, Washington, at the end of State Route 542. The base elevation is at 3,500 feet (1,067 m), while the peak of the resort is at 5,089 feet (1,551 m). It is about 10 miles (16 km) south of the 49th parallel, the international border with Canada. <a href=\"http://en.wikipedia.org/wiki/Mt._Baker_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.39976302534342,
+          47.292452787254746
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mission Ridge",
+        "description": "<strong>Mission Ridge</strong><p><a href=\"http://www.missionridge.com\" target=\"_blank\">Mission Ridge</a> is a ski area in the western United States, located near Wenatchee, Washington. On the leeward east slope of the Cascade Range, its base elevation is at 4,570 feet (1,393 m) above sea level with the peak at 6,820 feet (2,079 m). Mission Ridge receives an average snowfall of 200 inches (16.7 ft; 5.1 m) per year, with over 300 sunny days, and its slopes face primarily northeast. <a href=\"http://en.wikipedia.org/wiki/Mission_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.08901949599385,
+          47.74481203009558
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stevens Pass",
+        "description": "<strong>Stevens Pass</strong><p><a href=\"http://www.stevenspass.com\" target=\"_blank\">Stevens Pass</a> is a ski area located at the crest of Stevens Pass in the Cascade Range of Washington, United States. The base elevation is at 4,061 feet (1,238 m) with the peak at 5,845 feet (1,782 m). The Mill Valley \"backside\" of the resort drops to a minimum elevation of 3,821 feet (1,165 m). Total skiable terrain includes 37 major runs covering 1,125 acres (4.55 km2). <a href=\"http://en.wikipedia.org/wiki/Stevens_Pass_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.39133278280497,
+          46.637382127991586
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "White Pass",
+        "description": "<strong>White Pass</strong><p><a href=\"http://www.skiwhitepass.com\" target=\"_blank\">White Pass</a> is a ski area in the northwest United States, in the Cascade Range at White Pass, Washington. Located 50 miles (80 km) west of Yakima on US-12, it is 110 miles (180 km) east of Tacoma. As the crow flies, the pass is 25 miles (40 km) southeast of the summit of Mount Rainier and 30 miles (50 km) north of Mount Adams. <a href=\"http://en.wikipedia.org/wiki/White_Pass_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09640653803945,
+          47.921380626305755
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Spokane",
+        "description": "<strong>Mt Spokane</strong><p><a href=\"http://www.mtspokane.com\" target=\"_blank\">Mt Spokane</a> A non-profit organization operates the Mount Spokane Ski and Snowboard Park, located on the southwest portion of the mountain. <a href=\"http://en.wikipedia.org/wiki/Mount_Spokane\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
