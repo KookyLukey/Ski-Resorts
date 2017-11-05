@@ -4189,7 +4189,212 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Mt Spokane",
-        "description": "<strong>Mt Spokane</strong><p><a href=\"http://www.mtspokane.com\" target=\"_blank\">Mt Spokane</a> A non-profit organization operates the Mount Spokane Ski and Snowboard Park, located on the southwest portion of the mountain. <a href=\"http://en.wikipedia.org/wiki/Mount_Spokane\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Mt Spokane</strong><p><a href=\"http://www.mtspokane.com\" target=\"_blank\">Mt Spokane</a> A non-profit organization operates the Mount Spokane Ski and Snowboard Park, located on the southwest portion of the mountain. <a href=\"http://en.wikipedia.org/wiki/Mount_Spokane\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.79068358242512,
+          44.85446937966617
+        ]
+      },
+      "properties": {
+        "pass": "epic",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Afton Alps",
+        "description": "<strong>Afton Alps</strong><p><a href=\"http://www.aftonalps.com\" target=\"_blank\">Afton Alps</a> is a ski resort, which hosts a collection of ski and snowboard trails, located along the St. Croix River in the northeast corner of Denmark Township, Washington County, south of Afton, Minnesota in the United States. There are nearly 300 acres (1.2 km2) skiable at Afton Alps. <a href=\"http://en.wikipedia.org/wiki/Afton_Alps\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.63049467280507,
+          45.85097957315624
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Andes Tower Hills",
+        "description": "<strong>Andes Tower Hills</strong><p><a href=\"http://www.andestowerhills.com\" target=\"_blank\">Andes Tower Hills</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28561903908849,
+          44.72384426637828
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Buck Hill",
+        "description": "<strong>Buck Hill</strong><p><a href=\"http://www.buckhill.com\" target=\"_blank\">Buck Hill</a> is a ski hill in the north central United States, in the city of Burnsville, Minnesota, a suburb south of Minneapolis. It is one of three ski areas within the Twin Cities metropolitan area; the others are Afton Alps and Hyland Ski and Snowboard Area. <a href=\"http://en.wikipedia.org/wiki/Buck_Hill\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.87888874486089,
+          47.65803496009544
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Buena Vista",
+        "description": "<strong>Buena Vista</strong><p><a href=\"http://www.bvskiarea.com\" target=\"_blank\">Buena Vista</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.04349223524332,
+          44.36366619645081
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Coffee Mill",
+        "description": "<strong>Coffee Mill</strong><p><a href=\"http://www.coffeemillskiresort.com\" target=\"_blank\">Coffee Mill</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.36361021734774,
+          44.843629318194125
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hyland Hills",
+        "description": "<strong>Hyland Hills</strong><p><a href=\"http://www.threeriversparks.org\" target=\"_blank\">Hyland Hills</a> is a ski area in Bloomington, Minnesota owned and operated by Three Rivers Park District. <a href=\"http://en.wikipedia.org/wiki/Hyland_Ski_and_Snowboard_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.30317298322916,
+          47.57650761943022
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Giants Ridge",
+        "description": "<strong>Giants Ridge</strong><p><a href=\"http://www.giantsridge.com\" target=\"_blank\">Giants Ridge</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71355108171701,
+          47.66371464169265
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lutsen Mountains",
+        "description": "<strong>Lutsen Mountains</strong><p><a href=\"http://www.lutsen.com\" target=\"_blank\">Lutsen Mountains</a> is a ski area in the north central United States; an Alpine skiing area located on the North Shore region of Cook County in northeastern Minnesota. <a href=\"http://en.wikipedia.org/wiki/Lutsen_Mountains\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.21657828427851,
+          46.7176052063388
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spirit Mountain",
+        "description": "<strong>Spirit Mountain</strong><p><a href=\"http://www.spiritmt.com\" target=\"_blank\">Spirit Mountain</a> is a ski area in Duluth, Minnesota. It was founded by The City of Duluth and was built in 1974. With a vertical elevation of approximately 700 feet (210 m), it is the second tallest ski hill in Minnesota. <a href=\"http://en.wikipedia.org/wiki/Spirit_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.73058298975229,
+          44.560910175143384
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Welch Village",
+        "description": "<strong>Welch Village</strong><p><a href=\"http://www.welchvillage.com\" target=\"_blank\">Welch Village</a> is an American ski resort near Red Wing, Minnesota. It was built by Leigh Nelson in 1965 and has grown considerably since then. It has a vertical elevation of approximately 360 feet (110 m). <a href=\"http://en.wikipedia.org/wiki/Welch_Village\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7053097076714,
+          45.4888434920344
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wild Mountain",
+        "description": "<strong>Wild Mountain</strong><p><a href=\"http://www.wildmountain.com\" target=\"_blank\">Wild Mountain</a> is a ski and snowboard area in Amador Township, Chisago County, near Taylors Falls, Minnesota. It features 26 runs, including 4 terrain parks, which include jumps, rails, boxes, quarter-pipes and half-pipes, which are both man made and natural. <a href=\"http://en.wikipedia.org/wiki/Wild_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.03342159464955,
+          44.13314816755168
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Kato",
+        "description": "<strong>Mt Kato</strong><p><a href=\"http://www.mountkato.com\" target=\"_blank\">Mt Kato</a> is a winter sports facility in Minnesota, offering facilities for skiing, snowboarding, snow tubing and mountain biking. Mount Kato offers 19 trails on 55 skiable acres. <a href=\"http://en.wikipedia.org/wiki/Mount_Kato\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
