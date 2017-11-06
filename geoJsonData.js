@@ -4411,7 +4411,92 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Yawgoo Valley",
-        "description": "<strong>Yawgoo Valley</strong><p><a href=\"http://www.yawgoo.com\" target=\"_blank\">Yawgoo Valley</a> is the only skiing resort in Rhode Island. It is located on a hill in Exeter, south of Providence and opened in the 1965-66 season as \"Rhode Island's first chairlift served ski area.\" <a href=\"http://en.wikipedia.org/wiki/Yawgoo_Valley\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Yawgoo Valley</strong><p><a href=\"http://www.yawgoo.com\" target=\"_blank\">Yawgoo Valley</a> is the only skiing resort in Rhode Island. It is located on a hill in Exeter, south of Providence and opened in the 1965-66 season as \"Rhode Island's first chairlift served ski area.\" <a href=\"http://en.wikipedia.org/wiki/Yawgoo_Valley\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.31094833090901,
+          41.83548893687366
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mohawk Mountain",
+        "description": "<strong>Mohawk Mountain</strong><p><a href=\"http://www.mohawkmtn.com\" target=\"_blank\">Mohawk Mountain</a> is a ski area located in Cornwall, Litchfield County, Connecticut. The ski area was built on the northwest slope of Mohawk Mountain by Walt Schoenknecht in 1947. It is a popular destination for both day and night skiers and snowboarders in the Connecticut area. <a href=\"http://en.wikipedia.org/wiki/Mohawk_Mountain_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92491869069636,
+          41.582060972833624
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Southington",
+        "description": "<strong>Mt Southington</strong><p><a href=\"http://www.mountsouthington.com\" target=\"_blank\">Mt Southington</a> is located in Plantsville, Connecticut, on Mount Vernon Road. <a href=\"http://en.wikipedia.org/wiki/Mount_Southington\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74074824526906,
+          41.500524360563396
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Powder Ridge Park",
+        "description": "<strong>Powder Ridge Park</strong><p><a href=\"http://www.powderridgepark.com\" target=\"_blank\">Powder Ridge Park</a> is a relatively small ski area located in Middlefield, Connecticut. It began operations on January 22, 1961,the day JFK was inaugurated. It closed in 2007, and has reopened as Powder Ridge Mountain Park & Resort as of December, 2013. <a href=\"http://en.wikipedia.org/wiki/Powder_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.94669822789729,
+          41.88468497270312
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Sundown",
+        "description": "<strong>Ski Sundown</strong><p><a href=\"http://www.skisundown.com\" target=\"_blank\">Ski Sundown</a> is a ski area located in New Hartford, Connecticut. There are 16 trails, 15 of which are lighted for nighttime skiing. In terms of difficulty, eight of the trails are easier, four are intermediate and three are difficult and one is most difficult. <a href=\"http://en.wikipedia.org/wiki/Ski_Sundown\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25536759570241,
+          41.59059825310796
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Woodbury",
+        "description": "<strong>Woodbury</strong><p><a href=\"http://www.skisundown.com\" target=\"_blank\">Woodbury</a> is located in Woodbury, Connecticut. This small ski area is in New England. The skiing and snow tubing operations are serviced by a chairlift and multiple surface lifts. Local residents refer to it as \"Rod's\" after its owner, Olympic skier Rod Taylor. <a href=\"http://en.wikipedia.org/wiki/Woodbury_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
