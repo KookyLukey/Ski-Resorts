@@ -4496,7 +4496,194 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Woodbury",
-        "description": "<strong>Woodbury</strong><p><a href=\"http://www.skisundown.com\" target=\"_blank\">Woodbury</a> is located in Woodbury, Connecticut. This small ski area is in New England. The skiing and snow tubing operations are serviced by a chairlift and multiple surface lifts. Local residents refer to it as \"Rod's\" after its owner, Olympic skier Rod Taylor. <a href=\"http://en.wikipedia.org/wiki/Woodbury_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Woodbury</strong><p><a href=\"http://www.woodburyskiarea.com\" target=\"_blank\">Woodbury</a> is located in Woodbury, Connecticut. This small ski area is in New England. The skiing and snow tubing operations are serviced by a chairlift and multiple surface lifts. Local residents refer to it as \"Rod's\" after its owner, Olympic skier Rod Taylor. <a href=\"http://en.wikipedia.org/wiki/Woodbury_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87837389856577,
+          42.62266258658755
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Berkshire East",
+        "description": "<strong>Berkshire East</strong><p><a href=\"http://www.berkshireeast.com\" target=\"_blank\">Berkshire East</a> is a medium-sized alpine ski area located on Mount Institute in Charlemont and Hawley, Massachusetts. <a href=\"http://en.wikipedia.org/wiki/Berkshire_East_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91166723705828,
+          42.194356208224036
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blandford",
+        "description": "<strong>Blandford</strong><p><a href=\"http://www.skiblandford.com\" target=\"_blank\">Blandford</a> is a ski area located in Blandford, Massachusetts and is operated by the Springfield Ski Club. Blandford Ski Area has been owned by the Springfield Ski Club since 1936. This is the oldest, continuously operating club-owned ski area in North America. <a href=\"http://en.wikipedia.org/wiki/Blandford_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11927465070039,
+          42.21535661050017
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blue Hills",
+        "description": "<strong>Blue Hills</strong><p><a href=\"http://www.bluehillsboston.com\" target=\"_blank\">Blue Hills</a> is located on the western face of Great Blue Hill in Canton, Massachusetts. This land is part of the Blue Hills Reservation, a state park managed by the DCR. <a href=\"http://en.wikipedia.org/wiki/Blue_Hills_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2772022858262,
+          42.41801537658825
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bousquet",
+        "description": "<strong>Bousquet</strong><p><a href=\"http://www.bousquets.com\" target=\"_blank\">Bousquet</a> is a 200-acre (81 ha) ski area located in on a northern summit of Yokun Ridge in Pittsfield, Massachusetts within the Berkshires cultural region. The resort features a vertical drop of 750 feet (230 m), a lift-top elevation of 1,818 feet (554 m), twenty-four trails, five lifts, one terrain park, and 75% snowmaking capacity. <a href=\"http://en.wikipedia.org/wiki/Bousquet_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0558140464127,
+          42.74472924722641
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bradford",
+        "description": "<strong>Bradford</strong><p><a href=\"http://www.skibradford.com\" target=\"_blank\">Bradford</a> is a small ski area located in the Bradford section of Haverhill, Massachusetts. <a href=\"http://en.wikipedia.org/wiki/Ski_Bradford\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2921621389687,
+          42.5553900175751
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jiminey Peak",
+        "description": "<strong>Jiminey Peak</strong><p><a href=\"http://www.jimineypeak.com\" target=\"_blank\">Jiminey Peak</a> is a mid-sized ski resort in Hancock, Massachusetts in the Taconic Mountains. The peak of Jiminy Peak, which includes the Hendricks Summit Lodge, is located in Lanesborough, Massachusetts. <a href=\"http://en.wikipedia.org/wiki/Jiminy_Peak_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44503207877278,
+          42.542563917063056
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nashoba Valley",
+        "description": "<strong>Nashoba Valley</strong><p><a href=\"http://www.skinashoba.com\" target=\"_blank\">Nashoba Valley</a> is a small ski area in Westford, Massachusetts, located at 79 Powers Road. It borders on Littleton, Massachusetts. Operating each winter since its opening in 1964, it has 17 trails including a variety of terrain. <a href=\"http://en.wikipedia.org/wiki/Nashoba_Valley_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09839935973287,
+          42.196384082907976
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Otis Ridge",
+        "description": "<strong>Otis Ridge</strong><p><a href=\"http://www.otisridge.com\" target=\"_blank\">Otis Ridge</a> Just west of the town center is Otis Ridge Ski Area. <a href=\"http://en.wikipedia.org/wiki/Otis,_Massachusetts\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.32015157677233,
+          42.18365836565075
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Butternut",
+        "description": "<strong>Ski Butternut</strong><p><a href=\"http://www.skibutternut.com\" target=\"_blank\">Ski Butternut</a> also known as Butternut Basin, is a ski resort in Great Barrington, Massachusetts, located on Warner Mountain in The Berkshires. <a href=\"http://en.wikipedia.org/wiki/Ski_Butternut\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68196962215006,
+          42.30165461997956
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ski Ward",
+        "description": "<strong>Ski Ward</strong><p><a href=\"http://www.skiward.com\" target=\"_blank\">Ski Ward</a> is a small ski area located in Shrewsbury, Massachusetts. <a href=\"http://en.wikipedia.org/wiki/Ski_Ward\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88635470345616,
+          42.50246413117233
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wachusett Mountain",
+        "description": "<strong>Wachusett Mountain</strong><p><a href=\"http://www.wachusett.com\" target=\"_blank\">Wachusett Mountain</a> is a ski resort, on Mount Wachusett, in the towns of Princeton and Westminster, Worcester County, Massachusetts. It has 25 trails, served by 8 ski-lifts, including 3 high-speed chairlifts and 3 child-friendly magic-carpet lifts, 1 Triple Chairlift, and 1 Pony Lift (rope tow). <a href=\"http://en.wikipedia.org/wiki/Wachusett_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
