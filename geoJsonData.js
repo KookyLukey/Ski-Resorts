@@ -4734,7 +4734,568 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Mountain Creek",
-        "description": "<strong>Mountain Creek</strong><p><a href=\"http://www.mountaincreek.com\" target=\"_blank\">Mountain Creek</a> is a ski resort in Vernon Township, New Jersey, United States, located on Route 94, 47 miles (76 km) from the George Washington Bridge. <a href=\"http://en.wikipedia.org/wiki/Mountain_Creek\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Mountain Creek</strong><p><a href=\"http://www.mountaincreek.com\" target=\"_blank\">Mountain Creek</a> is a ski resort in Vernon Township, New Jersey, United States, located on Route 94, 47 miles (76 km) from the George Washington Bridge. <a href=\"http://en.wikipedia.org/wiki/Mountain_Creek\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5053072553128,
+          42.13224552921682
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Belleayre",
+        "description": "<strong>Belleayre</strong><p><a href=\"http://www.belleayre.com\" target=\"_blank\">Belleayre</a> in Catskill Park, New York, United States, is a ski resort owned and operated by the Olympic Regional Development Authority or ORDA. Skier and snowboarder visits have grown from 70,000 in 1995 to more than 175,000 in 2007. <a href=\"http://en.wikipedia.org/wiki/Belleayre_Ski_Center\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06573132425547,
+          43.15012722141017
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Brantling",
+        "description": "<strong>Brantling</strong><p><a href=\"http://www.brantling.com\" target=\"_blank\">Brantling</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40192778408527,
+          42.746689141310036
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bristol Mountain",
+        "description": "<strong>Bristol Mountain</strong><p><a href=\"http://www.bristolmountain.com\" target=\"_blank\">Bristol Mountain</a> also known as Bristol Mountain Winter Resort, is a ski resort located in South Bristol, New York in the Finger Lakes region. It is located 30 miles (48 km) from the center of Rochester, New York, the nearest major city to the resort, and about 10 miles (16 km) from Canandaigua on NY 64. <a href=\"http://en.wikipedia.org/wiki/Bristol_Mountain_Ski_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69203821755946,
+          42.68097825651045
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Buffalo Ski Club",
+        "description": "<strong>Buffalo Ski Club</strong><p><a href=\"http://www.bscskiarea.com\" target=\"_blank\">Buffalo Ski Club</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.47692610695958,
+          42.16910118593625
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Catamount",
+        "description": "<strong>Catamount</strong><p><a href=\"http://www.catamountski.com\" target=\"_blank\">Catamount</a> is a ski resort located on Mount Fray of the Taconic Mountains in Hillsdale, New York and South Egremont, Massachusetts. It is one of the few remaining family-owned ski areas in New England. Catamount is also one of the largest ski areas in the Berkshire/Taconic Mountains. <a href=\"http://en.wikipedia.org/wiki/Catamount_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66725452244282,
+          42.2619702287558
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Holiday Valley",
+        "description": "<strong>Holiday Valley</strong><p><a href=\"http://www.holidayvalley.com\" target=\"_blank\">Holiday Valley</a> is a family oriented vacation spot and ski resort in Ellicottville, New York. Established in 1957 by Dick Congdon, John Fisher and Bill Northrup, the facility opened with four runs and one T-bar lift. Currently the resort contains 58 slopes and 13 lifts. <a href=\"http://en.wikipedia.org/wiki/Holiday_Valley_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.73557837307453,
+          42.06203043413782
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Peak n Peak",
+        "description": "<strong>Peak n Peak</strong><p><a href=\"http://www.pknpk.com\" target=\"_blank\">Peak n Peak</a> is ski resort in southwestern New York in Chautauqua County. The resort is located at the western end of the ski country snowbelt. Peek'n Peak opened in 1964. The lodge was built in the Tudor style architecture style. <a href=\"http://en.wikipedia.org/wiki/Peek%27n_Peak\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.90180667117238,
+          43.9312382255155
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dry Hill",
+        "description": "<strong>Dry Hill</strong><p><a href=\"http://www.skidryhill.com\" target=\"_blank\">Dry Hill</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00684477761388,
+          43.673278669968894
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gore Mountain",
+        "description": "<strong>Gore Mountain</strong><p><a href=\"http://www.goremountain.com\" target=\"_blank\">Gore Mountain</a> is an alpine ski resort on Gore Mountain in the Adirondack Mountains, located in North Creek, New York. The mountain is a popular winter destination, attracting skiers from all over the east. It is the closest large mountain in New York to the Capital District (Albany) metro area. Gore Mountain is one of the three ski areas owned by the State of New York; and is operated by the Olympic Regional Development Authority (ORDA), a state agency. <a href=\"http://en.wikipedia.org/wiki/Gore_Mountain_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14755066111684,
+          42.51237434499116
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Greek Peak",
+        "description": "<strong>Greek Peak</strong><p><a href=\"http://www.greekpeak.net\" target=\"_blank\">Greek Peak</a> is a ski resort, with a vertical drop of 952 feet (290 m), located near Cortland, New York. Greek Peak offers day and night skiing 7 days a week from late December until mid March. This mountain features 32 trails with varied terrain. It also has 6 lifts, 2 magic carpet lifts, and a tubing center with a tubing handle tow. <a href=\"http://en.wikipedia.org/wiki/Greek_Peak_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81734017282724,
+          43.47441519474806
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hickory Ski Center",
+        "description": "<strong>Hickory Ski Center</strong>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.61448732763529,
+          41.629593972757405
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Holiday Mountain",
+        "description": "<strong>Holiday Mountain</strong><p><a href=\"http://www.holidaymtn.com\" target=\"_blank\">Holiday Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.68943337351084,
+          42.27316090745413
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "HoliMont",
+        "description": "<strong>HoliMont</strong><p><a href=\"http://www.holimont.com\" target=\"_blank\">HoliMont</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21050909906626,
+          42.20441744369436
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hunter Mountain",
+        "description": "<strong>Hunter Mountain</strong><p><a href=\"http://www.huntermtn.com\" target=\"_blank\">Hunter Mountain</a> is a ski resort located about three hours north west of New York City in Hunter, New York. It features a 1,600-foot (488 m) vertical drop. <a href=\"http://en.wikipedia.org/wiki/Hunter_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47811945155263,
+          42.6460972178221
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hunt Hollow",
+        "description": "<strong>Hunt Hollow</strong><p><a href=\"http://www.hunthollow.net\" target=\"_blank\">Hunt Hollow</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65277470089495,
+          42.60746068119836
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kissing Bridge",
+        "description": "<strong>Kissing Bridge</strong><p><a href=\"http://www.kbski.com\" target=\"_blank\">Kissing Bridge</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.03021625429392,
+          42.74179618445601
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Labrador Mountain",
+        "description": "<strong>Labrador Mountain</strong><p><a href=\"http://www.skicny.com\" target=\"_blank\">Labrador Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03161824680865,
+          42.81775986589505
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Maple Ski Ridge",
+        "description": "<strong>Maple Ski Ridge</strong><p><a href=\"http://www.mapleskiridge.com\" target=\"_blank\">Maple Ski Ridge</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.96615711599588,
+          43.6971962025017
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "McCauley Mountain",
+        "description": "<strong>McCauley Mountain</strong><p><a href=\"http://www.mccauleyny.com\" target=\"_blank\">McCauley Mountain</a> is a ski resort in the Town of Webb, Herkimer County, New York. It is located just outside the hamlet of Old Forge, in the central Adirondack Mountains. <a href=\"http://en.wikipedia.org/wiki/McCauley_Mountain_(New_York)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29518107324839,
+          41.24780546898419
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Peter",
+        "description": "<strong>Mt Peter</strong><p><a href=\"http://www.mtpeter.com\" target=\"_blank\">Mt Peter</a> Originally opened in 1936 as a showcase for Macy's ski apparel, the ski area occupies the mountains northern slope and features 14 trails 1 terrain park served by 3 double chair lifts, 2 carpet lift and a handle tow <a href=\"http://en.wikipedia.org/wiki/Mount_Peter_(New_York)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36221484094858,
+          43.518116197919504
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oak Mountain",
+        "description": "<strong>Oak Mountain</strong><p><a href=\"http://www.oakmountainski.com\" target=\"_blank\">Oak Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65319202281535,
+          42.290284475527855
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Plattekill Mountain",
+        "description": "<strong>Plattekill Mountain</strong><p><a href=\"http://www.plattekill.com\" target=\"_blank\">Plattekill Mountain</a> is a privately owned and operated ski and bike resort northwest of Catskill Park in the town of Roxbury, New York. It features a vertical drop of 1,100 feet (335 meters) with 38 trails of varying degrees of difficulty. <a href=\"http://en.wikipedia.org/wiki/Plattekill_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50481180101633,
+          43.08130154590315
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Royal Mountain",
+        "description": "<strong>Royal Mountain</strong><p><a href=\"http://www.royalmountain.com\" target=\"_blank\">Royal Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4201221652329,
+          43.639751705228555
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snow Ridge",
+        "description": "<strong>Snow Ridge</strong><p><a href=\"http://www.snowridge.com\" target=\"_blank\">Snow Ridge</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15876556374133,
+          42.774217625265564
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Song Mountain",
+        "description": "<strong>Song Mountain</strong><p><a href=\"http://www.skicny.com\" target=\"_blank\">Song Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.87348242476583,
+          42.46797573681367
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Swain",
+        "description": "<strong>Swain</strong><p><a href=\"http://www.swain.com\" target=\"_blank\">Swain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58608664944768,
+          41.50793253693504
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Thunder Ridge",
+        "description": "<strong>Thunder Ridge</strong><p><a href=\"http://www.thunderridgeski.com\" target=\"_blank\">Thunder Ridge</a> is a small ski area located in Patterson, NY. Because it is located just 75 minutes from New York City, the mountain attracts skiers and snowboarders from across the New York area. While it does not receive a lot of snowfall, Thunder Ridge does have snowmaking capabilities which can cover 90% of the mountain. <a href=\"http://en.wikipedia.org/wiki/Thunder_Ridge_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23444278538227,
+          44.76321271930386
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Titus Mountain",
+        "description": "<strong>Titus Mountain</strong><p><a href=\"http://www.titusmountain.com\" target=\"_blank\">Titus Mountain</a> is a popular downhill ski area spread over 3 mountains of northern New York, 7 miles (11 km) south of the Village of Malone, in the Town of Malone, in Franklin County, New York. The area has a base elevation of 825 feet (251 m), summit elevation of 2,025 feet (617 m) and a vertical drop of 1,200 feet (370 m). <a href=\"http://en.wikipedia.org/wiki/Titus_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95986191183329,
+          42.826234084090686
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Toggenburg Mountain",
+        "description": "<strong>Toggenburg Mountain</strong><p><a href=\"http://www.skitog.com\" target=\"_blank\">Toggenburg Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72528009582311,
+          43.28562118017778
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "West Mountain",
+        "description": "<strong>West Mountain</strong><p><a href=\"http://www.westmtn.net\" target=\"_blank\">West Mountain</a> is a ski area located in Queensbury, New York, just outside the Adirondack Park on West Mountain Road (CR58). West Mountain contains 25 trails ranging in difficulty from easy green trails to more advanced black diamond trails and some glades. <a href=\"http://en.wikipedia.org/wiki/West_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86142496019602,
+          44.35367104862951
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Whiteface",
+        "description": "<strong>Whiteface</strong><p><a href=\"http://www.whiteface.com\" target=\"_blank\">Whiteface</a> is run by the Olympic Regional Development Authority. Known for its big-mountain skiing, Whiteface is consistently ranked as one of the top ski resorts in the Northeast. It was a prime venue of the 1980 Winter Olympics, hosting all six of the alpine ski events. <a href=\"http://en.wikipedia.org/wiki/Whiteface_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.25671132281423,
+          42.293734820062184
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Windham Mountain",
+        "description": "<strong>Windham Mountain</strong><p><a href=\"http://www.windhammountain.com\" target=\"_blank\">Windham Mountain</a> is a ski resort located in the town of Windham, New York (US), in the northern section of the Catskill Mountains, approximately 3 hours north of New York City. It has 54 trails and 12 lifts, including two high-speed detachable quads, one from the bottom to top of each peak. <a href=\"http://en.wikipedia.org/wiki/Windham_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38475455716252,
+          43.3026680229498
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Woods Valley",
+        "description": "<strong>Woods Valley</strong><p><a href=\"http://www.woodsvalleyskiarea.com\" target=\"_blank\">Woods Valley</a></p>"}
     }
   ]
 }
