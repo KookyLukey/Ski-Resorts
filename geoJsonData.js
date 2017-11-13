@@ -5295,7 +5295,58 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Woods Valley",
-        "description": "<strong>Woods Valley</strong><p><a href=\"http://www.woodsvalleyskiarea.com\" target=\"_blank\">Woods Valley</a></p>"}
+        "description": "<strong>Woods Valley</strong><p><a href=\"http://www.woodsvalleyskiarea.com\" target=\"_blank\">Woods Valley</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6049853656441,
+          34.5418134684851
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cloudmont",
+        "description": "<strong>Cloudmont</strong><p><a href=\"http://www.cloudmont.com\" target=\"_blank\">Cloudmont</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51227148249745,
+          38.55550495067312
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Paoli Peaks",
+        "description": "<strong>Paoli Peaks</strong><p><a href=\"http://www.paolipeaks.com\" target=\"_blank\">Paoli Peaks</a> is an alpine ski resort located in Paoli Township, Orange County, near Paoli, Indiana. Paoli Peaks is for skiers, snowboarders, snowbladers, and tubers (with the addition of their tubing hill in the 2006-2007 season). <a href=\"http://en.wikipedia.org/wiki/Paoli_Peaks\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88572243601084,
+          39.14746048868741
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Perfect North",
+        "description": "<strong>Perfect North</strong><p><a href=\"http://www.perfectnorth.com\" target=\"_blank\">Perfect North</a> is a ski area in southeastern Indiana. It consists of 4 magic carpets, 2 rope tows, and 5 chairlifts. The area has 23 trails, 2 of which are expert, 4 of which are most difficult, 3 of which are advanced intermediate, 9 of which are intermediate, and 4 of which are beginner. <a href=\"http://en.wikipedia.org/wiki/Perfect_North_Slopes\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
