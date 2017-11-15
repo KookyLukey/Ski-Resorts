@@ -5346,7 +5346,262 @@ var geoJsonData = {
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Perfect North",
-        "description": "<strong>Perfect North</strong><p><a href=\"http://www.perfectnorth.com\" target=\"_blank\">Perfect North</a> is a ski area in southeastern Indiana. It consists of 4 magic carpets, 2 rope tows, and 5 chairlifts. The area has 23 trails, 2 of which are expert, 4 of which are most difficult, 3 of which are advanced intermediate, 9 of which are intermediate, and 4 of which are beginner. <a href=\"http://en.wikipedia.org/wiki/Perfect_North_Slopes\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Perfect North</strong><p><a href=\"http://www.perfectnorth.com\" target=\"_blank\">Perfect North</a> is a ski area in southeastern Indiana. It consists of 4 magic carpets, 2 rope tows, and 5 chairlifts. The area has 23 trails, 2 of which are expert, 4 of which are most difficult, 3 of which are advanced intermediate, 9 of which are intermediate, and 4 of which are beginner. <a href=\"http://en.wikipedia.org/wiki/Perfect_North_Slopes\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8608696050942,
+          41.395354710280166
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Crescent",
+        "description": "<strong>Mt Crescent</strong><p><a href=\"http://www.skicrescent.com\" target=\"_blank\">Mt Crescent</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.95338372327387,
+          42.030701149920056
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Seven Oaks",
+        "description": "<strong>Seven Oaks</strong><p><a href=\"http://www.sevenoaksrec.com\" target=\"_blank\">Seven Oaks</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.82166598178446,
+          42.51633838600471
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sundown",
+        "description": "<strong>Sundown</strong><p><a href=\"http://www.sundownmtn.com\" target=\"_blank\">Sundown</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.65073139965534,
+          38.53530948098022
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hidden Valley MO",
+        "description": "<strong>Hidden Valley</strong><p><a href=\"http://www.hiddenvalleyski.com\" target=\"_blank\">Hidden Valley</a> is a ski resort in the St. Louis, Missouri suburb of Wildwood, Missouri. <a href=\"http://en.wikipedia.org/wiki/Hidden_Valley_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.97079078108072,
+          39.46736709814132
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Snow Creek",
+        "description": "<strong>Snow Creek</strong><p><a href=\"http://www.skisnowcreek.com\" target=\"_blank\">Snow Creek</a> is a ski resort on the bluffs above the Missouri River in Marshall Township, Platte County, northwest of Kansas City, Missouri, near the village of Iatan. <a href=\"http://en.wikipedia.org/wiki/Snow_Creek_(ski_resort)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.70204129815102,
+          45.50673789255424
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Squaw",
+        "description": "<strong>Big Squaw</strong><p><a href=\"http://www.skibigsquaw.com\" target=\"_blank\">Big Squaw</a> is a ski area in Greenville, Maine. Opened in 1963, the ski area is located on the north side of Big Moose Mountain (named \"Big Squaw Mountain\" until 2000), overlooking Moosehead Lake. The resort featured two chairlifts that covered 1,700 vertical feet. <a href=\"http://en.wikipedia.org/wiki/Big_Squaw_Mountain_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.13466842845082,
+          44.21726250232527
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Camden Snow Bowl",
+        "description": "<strong>Camden Snow Bowl</strong><p><a href=\"http://www.camdensnowbowl.com\" target=\"_blank\">Camden Snow Bowl</a> is a small, community-owned ski area in Camden, Maine. Located about 4.5 miles from Penobscot Bay on 1300-ft. (396 m) Ragged Mountain, it offers alpine skiing with views of the ocean. It also features cross-country skiing and a 400-foot (122 m) toboggan run, on which the U.S. National Toboggan Championships are hosted annually. <a href=\"http://en.wikipedia.org/wiki/Camden_Snow_Bowl\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28237644582987,
+          44.13405102533003
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lost Valley",
+        "description": "<strong>Lost Valley</strong><p><a href=\"http://www.lostvalleyski.com\" target=\"_blank\">Lost Valley</a> is a ski area in the northeastern United States, in Auburn, Maine. Its east-facing slopes feature 15 trails across one hill, and is served by two chairlifts. <a href=\"http://en.wikipedia.org/wiki/Lost_Valley_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.70686116814613,
+          44.379821284560535
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Abram",
+        "description": "<strong>Mt Abram</strong><p><a href=\"http://www.mtabram.com\" target=\"_blank\">Mt Abram</a> is a small family ski area in Greenwood, Maine, located a few miles outside of Bethel, Maine, and the Sunday River Resort. It consist of 10 easy, 21 Intermediate, and 13 expert trails. Along with five lifts which service 1,150 feet (350 m) of vertical drop. <a href=\"http://en.wikipedia.org/wiki/Mount_Abram\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.28304711729288,
+          45.353992433094945
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt Jefferson",
+        "description": "<strong>Mt Jefferson</strong><p><a href=\"http://www.skimtjefferson.com\" target=\"_blank\">Mt Jefferson</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9572686329484,
+          44.78078412733402
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hermon Mountain",
+        "description": "<strong>Hermon Mountain</strong><p><a href=\"http://www.skihermonmountain.com\" target=\"_blank\">Hermon Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61334343627095,
+          44.576961092298596
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Black Mountain of Maine",
+        "description": "<strong>Black Mountain of Maine</strong><p><a href=\"http://www.skiblackmountain.org\" target=\"_blank\">Black Mountain of Maine</a> is a ski resort in Rumford, Maine which is most famous for its Nordic skiing facilities, and has hosted several national cross-country skiing championships on its 17 km of trails. <a href=\"http://en.wikipedia.org/wiki/Black_Mountain_of_Maine\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.61744459345937,
+          44.7677031909721
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Eaton Mountain",
+        "description": "<strong>Eaton Mountain</strong><p><a href=\"http://www.eatonmountain.com\" target=\"_blank\">Eaton Mountain</a> is a ski resort in Rumford, Maine which is most famous for its Nordic skiing facilities, and has hosted several national cross-country skiing championships on its 17 km of trails. <a href=\"http://en.wikipedia.org/wiki/Eaton_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.17038198187947,
+          44.64975365455977
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Titcomb Mountain",
+        "description": "<strong>Titcomb Mountain</strong><p><a href=\"http://www.titcombmountain.com\" target=\"_blank\">Titcomb Mountain</a> is a ski hill located in Farmington, Maine, in the United States. It was established in 1939 and is run by the Farmington Ski Club. <a href=\"http://en.wikipedia.org/wiki/Titcomb_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.59447304159403,
+          47.24604218657631
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lonesome Pine Trails",
+        "description": "<strong>Lonesome Pine Trails</strong><p><a href=\"http://www.lonesomepines.org\" target=\"_blank\">Lonesome Pine Trails</a> is a ski resort located in Fort Kent, Maine. <a href=\"http://en.wikipedia.org/wiki/Lonesome_Pine_Trails\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
