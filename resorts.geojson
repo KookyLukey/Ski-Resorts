@@ -578,6 +578,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1773,6 +1774,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2376,6 +2378,7 @@
         ]
       },
       "properties": {
+        "pass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2514,6 +2517,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2548,6 +2552,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2890,6 +2895,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3733,6 +3739,7 @@
         ]
       },
       "properties": {
+        "pass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3801,6 +3808,7 @@
         ]
       },
       "properties": {
+        "pass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3818,6 +3826,7 @@
         ]
       },
       "properties": {
+        "pass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3835,6 +3844,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3954,6 +3964,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4161,6 +4172,7 @@
         ]
       },
       "properties": {
+        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
