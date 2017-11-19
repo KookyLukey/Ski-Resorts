@@ -5631,7 +5631,177 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Lonesome Pine Trails",
-        "description": "<strong>Lonesome Pine Trails</strong><p><a href=\"http://www.lonesomepines.org\" target=\"_blank\">Lonesome Pine Trails</a> is a ski resort located in Fort Kent, Maine. <a href=\"http://en.wikipedia.org/wiki/Lonesome_Pine_Trails\" target=\"_blank\">Wikipedia</a></p>"}
+        "description": "<strong>Lonesome Pine Trails</strong><p><a href=\"http://www.lonesomepines.org\" target=\"_blank\">Lonesome Pine Trails</a> is a ski resort located in Fort Kent, Maine. <a href=\"http://en.wikipedia.org/wiki/Lonesome_Pine_Trails\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68519600108266,
+          44.92503150395915
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Granite Peak",
+        "description": "<strong>Granite Peak</strong><p><a href=\"http://www.skigranitepeak.com\" target=\"_blank\">Granite Peak</a> is a ski area located in Rib Mountain State Park in the Town of Rib Mountain, Marathon County, Wisconsin, south of Wausau. It features 74 runs and 6 terrain parks as of 2011 and boasts a vertical drop of 700 feet (213 m). Granite Peak is the third tallest ski area in the Midwest, after Mount Bohemia (900 ft.) in Michigan's Upper Peninsula and Lutsen Mountain (825 ft.) on Minnesota's north shore of Lake Superior. <a href=\"http://en.wikipedia.org/wiki/Granite_Peak_Ski_Area\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62690237909555,
+          43.418000812777905
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Devil's Head",
+        "description": "<strong>Devil's Head</strong><p><a href=\"http://www.devilsheadresort.com\" target=\"_blank\">Devil's Head</a> is a golf, meeting/convention, and ski resort located in the Town of Merrimac in Sauk County, Wisconsin, near Devil's Lake State Park. <a href=\"http://en.wikipedia.org/wiki/Devil%27s_Head_Resort\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42806609347463,
+          42.735815379420785
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alpine Valley WI",
+        "description": "<strong>Alpine Valley</strong><p><a href=\"http://www.alpinevalleyresort.com\" target=\"_blank\">Alpine Valley</a> </p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.51713875867426,
+          43.503354594775
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cascade Mountain",
+        "description": "<strong>Cascade Mountain</strong><p><a href=\"http://www.cascademountain.com\" target=\"_blank\">Cascade Mountain</a> is located in Portage, Wisconsin. It has 44 trails, 4 terrain parks, and an 800-foot-long chute for snow tubing. <a href=\"http://en.wikipedia.org/wiki/Cascade_Mountain_(ski_area)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39519282057881,
+          46.407987488091706
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Whitecap Mountains",
+        "description": "<strong>Whitecap Mountains</strong><p><a href=\"http://www.skiwhitecap.com\" target=\"_blank\">Whitecap Mountains</a> is a ski resort located in the Town of Anderson, Iron County, Wisconsin (postal address Upson, Wisconsin, and located west of Montreal, Wisconsin). It has a 400-foot (120 m) vertical drop with 43 ski trails which are serviced by nine lifts. <a href=\"http://en.wikipedia.org/wiki/Whitecap_Mountain\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5684233494103,
+          43.082216413475926
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blackhawk Ski Club",
+        "description": "<strong>Blackhawk Ski Club</strong><p><a href=\"http://www.blackhawkskiclub.org\" target=\"_blank\">Blackhawk Ski Club</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.78453079797328,
+          44.445656113509706
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bruce Mound",
+        "description": "<strong>Bruce Mound</strong><p><a href=\"http://www.co.clark.wi.us\" target=\"_blank\">Bruce Mound</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78050754405558,
+          43.04603641408298
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tyrol Basin",
+        "description": "<strong>Tyrol Basin</strong><p><a href=\"http://www.tyrolbasin.com\" target=\"_blank\">Tyrol Basin</a> is a ski and snowboard area located in the Town of Vermont, Dane County, near Mount Horeb, Wisconsin. It has both an equal mix of beginner and intermediate runs as well as a mix of advanced and expert runs. Tyrol Basin has 16 runs of average size for Midwest hills. The ski area attracts many skiers and snowboarders from nearby Madison, Wisconsin. <a href=\"http://en.wikipedia.org/wiki/Tyrol_Basin\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.61809156276286,
+          45.35131399192244
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Trollhaugen",
+        "description": "<strong>Trollhaugen</strong><p><a href=\"http://www.trollhaugen.com\" target=\"_blank\">Trollhaugen</a> is a ski resort located in Dresser, Wisconsin. The ski area consists of 24 trails, including 3 terrain parks. In addition to offering ski and snowboard opportunities, Trollhaugen offers 10 lanes of snow tubing during the winter, as well as zip lining and a 120 element aerial challenge course in the summer. <a href=\"http://en.wikipedia.org/wiki/Trollhaugen\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18297562934458,
+          43.743623973933474
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt La Crosse",
+        "description": "<strong>Mt La Crosse</strong><p><a href=\"http://www.mtlacrosse.com\" target=\"_blank\">Mt La Crosse</a></p>"}
     }
   ]
 }
