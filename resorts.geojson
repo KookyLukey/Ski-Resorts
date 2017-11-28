@@ -5801,7 +5801,177 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Mt La Crosse",
-        "description": "<strong>Mt La Crosse</strong><p><a href=\"http://www.mtlacrosse.com\" target=\"_blank\">Mt La Crosse</a></p>"}
+        "description": "<strong>Mt La Crosse</strong><p><a href=\"http://www.mtlacrosse.com\" target=\"_blank\">Mt La Crosse</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3808286935091,
+          45.50908378434822
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Christie Mountain",
+        "description": "<strong>Christie Mountain</strong><p><a href=\"http://www.christiemountain.com\" target=\"_blank\">Christie Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8607088625431,
+          43.613708194816596
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Christmas Mountain",
+        "description": "<strong>Christmas Mountain</strong><p><a href=\"http://www.bluegreenvacations.com\" target=\"_blank\">Christmas Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40489163994789,
+          42.6100220619781
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Grand Geneva",
+        "description": "<strong>Grand Geneva</strong><p><a href=\"http://www.grandgeneva.com\" target=\"_blank\">Grand Geneva</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29949155449867,
+          45.89577290674333
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Keyes Peak",
+        "description": "<strong>Keyes Peak</strong><p><a href=\"http://www.florencecountywi.com\" target=\"_blank\">Keyes Peak</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27893678098917,
+          43.3378437451918
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Little Switzerland",
+        "description": "<strong>Little Switzerland</strong><p><a href=\"http://www.littleswitz.com\" target=\"_blank\">Little Switzerland</a> is a ski resort in Slinger, Wisconsin. <a href=\"http://en.wikipedia.org/wiki/Little_Switzerland_(Wisconsin)\" target=\"_blank\">Wikipedia</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.28434689342976,
+          46.65202855325518
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mont Du Lac",
+        "description": "<strong>Mont Du Lac</strong><p><a href=\"http://www.mdlresort.com\" target=\"_blank\">Mont Du Lac</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1814786568284,
+          44.12125957371465
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nordic Mountain",
+        "description": "<strong>Nordic Mountain</strong><p><a href=\"http://www.nordicmountain.com\" target=\"_blank\">Nordic Mountain</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22257820516825,
+          43.49420714501262
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sunburst",
+        "description": "<strong>Sunburst</strong><p><a href=\"http://www.skisunburst.com\" target=\"_blank\">Sunburst</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26459232717752,
+          43.134674030504875
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ausblick",
+        "description": "<strong>Ausblick</strong><p><a href=\"http://www.ausblick.org\" target=\"_blank\">Ausblick</a></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18849269300699,
+          42.49872860900761
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wilmont Mountain",
+        "description": "<strong>Wilmont Mountain</strong><p><a href=\"http://www.wilmotmountain.com\" target=\"_blank\">Wilmont Mountain</a> is a ski area in Kenosha County, Wisconsin. It is located in the Census-designated place of Wilmot and lies in both the Town of Randall and the Town of Salem, just north of the Illinois border. Located in the southern region of Wisconsin's Kettle Moraine, Wilmot Mountain is the result of glaciation. <a href=\"http://en.wikipedia.org/wiki/Wilmot_Mountain\" target=\"_blank\">Wikipedia</a></p>"}
     }
   ]
 }
