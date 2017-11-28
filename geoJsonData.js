@@ -5644,6 +5644,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "pass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
