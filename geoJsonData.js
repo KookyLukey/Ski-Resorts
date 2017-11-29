@@ -45,7 +45,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -63,7 +63,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -81,7 +81,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -99,7 +99,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -117,7 +117,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -492,7 +492,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -578,7 +578,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -783,7 +783,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1005,7 +1005,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1023,7 +1023,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1126,7 +1126,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1739,7 +1739,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1774,7 +1774,6 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -1877,7 +1876,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2082,7 +2081,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2117,7 +2116,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2169,7 +2168,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2221,7 +2220,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2273,7 +2272,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2342,7 +2341,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2360,7 +2359,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2378,7 +2377,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2447,7 +2446,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2465,7 +2464,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2517,7 +2516,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2552,7 +2551,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2757,7 +2756,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2843,7 +2842,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2861,6 +2860,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -2895,7 +2895,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3168,7 +3168,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3220,7 +3220,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3238,7 +3238,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3256,7 +3256,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3274,7 +3274,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3292,7 +3292,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3310,7 +3310,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3328,7 +3328,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3346,7 +3346,8 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3687,7 +3688,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3739,7 +3740,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3808,7 +3809,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3826,7 +3827,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3844,7 +3845,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3964,7 +3965,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4016,7 +4017,8 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4085,7 +4087,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4120,7 +4122,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4172,7 +4174,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "powder",
+        "powderpass": "powder",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4224,7 +4226,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "epic",
+        "epicpass": "epic",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4259,7 +4261,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4345,7 +4347,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4703,7 +4705,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4755,7 +4757,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4773,7 +4775,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4910,7 +4912,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -5285,7 +5287,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -5303,7 +5305,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -5644,7 +5646,7 @@ var geoJsonData = {
         ]
       },
       "properties": {
-        "pass": "max",
+        "maxpass": "max",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",

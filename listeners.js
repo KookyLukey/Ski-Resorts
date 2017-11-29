@@ -62,7 +62,7 @@ function addNonClustered(selectedOption){
       data: geoJsonData,
       cluster: false
   });
-  
+
   map.addLayer({
       id: "unclustered-point",
       type: "circle",
@@ -74,5 +74,11 @@ function addNonClustered(selectedOption){
           "circle-stroke-color": "#fff"
       }
   });
-  map.setFilter('unclustered-point', ['==', 'pass', selectedOption]);
+  if(selectedOption == 'max'){
+    map.setFilter('unclustered-point', ['==', 'maxpass', selectedOption]);
+  }else if(selectedOption == 'epic'){
+    map.setFilter('unclustered-point', ['==', 'epicpass', selectedOption]);
+  }else if(selectedOption == 'powder'){
+    map.setFilter('unclustered-point', ['==', 'powderpass', selectedOption]);
+  }
 }
