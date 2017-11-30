@@ -41,11 +41,11 @@ function addClusteredLayers(){
               type: "interval",
               stops: [
                   [0, "#51bbd6"],
-                  [2, "#DAF7A6"],
-                  [4, "#f1f075"],
-                  [8, "#f28cb1"],
-                  [15, "#EC644B"],
-                  [30, "#BE90D4"],
+                  [2, "#FFE7C1"],
+                  [4, "#C6F0DA"],
+                  [8, "#92DBC7"],
+                  [15, "#36C4D0"],
+                  [30, "#28A9BC"],
                   [50, "#C8F7C5"],
               ]
           },
