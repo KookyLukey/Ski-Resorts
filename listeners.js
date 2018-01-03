@@ -82,3 +82,19 @@ function addNonClustered(selectedOption){
     map.setFilter('unclustered-point', ['==', 'powderpass', selectedOption]);
   }
 }
+
+function getAddResort(){
+  var resortName = document.getElementById('resortName').value;
+  var longitude = document.getElementById('longitude').value;
+  var latitude = document.getElementById('latitude').value;
+  var desc = document.getElementById('desc').value;
+  var descName = document.getElementById('descName').value;
+  var desc = document.getElementById('descUrl').value;
+  var desc = document.getElementById('desc').value;
+
+
+}
+
+function writeGeoJsonString(){
+  
+}
