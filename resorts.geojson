@@ -5975,6 +5975,22 @@
         "marker-symbol": "",
         "name": "Wilmont Mountain",
         "description": "<strong>Wilmont Mountain</strong><p><a href=\"http://www.wilmotmountain.com\" target=\"_blank\">Wilmont Mountain</a> is a ski area in Kenosha County, Wisconsin. It is located in the Census-designated place of Wilmot and lies in both the Town of Randall and the Town of Salem, just north of the Illinois border. Located in the southern region of Wisconsin's Kettle Moraine, Wilmot Mountain is the result of glaciation. <a href=\"http://en.wikipedia.org/wiki/Wilmot_Mountain\" target=\"_blank\">Wikipedia</a></p>"}
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.330865,
+          45.323174
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mount Pakenham",
+        "description": "<strong>Mount Pakenham</strong><p><a href=\"http://www.wilmotmountain.com\" target=\"_blank\">Mount Pakenham</a> is a ski hill to the south-west of Ottawa, Ontario, Canada, near the town of Pakenham. <a href=\"http://en.wikipedia.org/wiki/Mount_Pakenham\" target=\"_blank\">Wikipedia</a></p>"}
+    },
   ]
 }
