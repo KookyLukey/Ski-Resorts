@@ -5975,6 +5975,166 @@ var geoJsonData = {
         "marker-symbol": "",
         "name": "Wilmont Mountain",
         "description": "<strong>Wilmont Mountain</strong><p><a href=\"http://www.wilmotmountain.com\" target=\"_blank\">Wilmont Mountain</a> is a ski area in Kenosha County, Wisconsin. It is located in the Census-designated place of Wilmot and lies in both the Town of Randall and the Town of Salem, just north of the Illinois border. Located in the southern region of Wisconsin's Kettle Moraine, Wilmot Mountain is the result of glaciation. <a href=\"http://en.wikipedia.org/wiki/Wilmot_Mountain\" target=\"_blank\">Wikipedia</a></p>"}
-    }
+    },
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.330865,
+45.323174
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Mount Pakenham",
+ "description": "<strong>Mount Pakenham</strong><p><a href=\"http://www.mountpakenham.com/\" target=\"_blank\">Mount Pakenham</a>Mount Pakenham is a ski hill to the south-west of Ottawa, Ontario, Canada, near the town of Pakenham.<a href=\"https://en.wikipedia.org/wiki/Mount_Pakenham\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-75.851212,
+45.509061
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Camp Fortune",
+ "description": "<strong>Camp Fortune</strong><p><a href=\"https://campfortune.com/en/\" target=\"_blank\">Camp Fortune</a>Camp Fortune is a commercial alpine ski centre. It is located in the municipality of Chelsea in the Gatineau Hills north of Gatineau, Quebec, approximately 15 minutes from Downtown Ottawa, Ontario.<a href=\"https://en.wikipedia.org/wiki/Camp_Fortune\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-75.848939,
+45.592789
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Mont Cascades",
+ "description": "<strong>Mont Cascades</strong><p><a href=\"https://montcascades.ca/ski/\" target=\"_blank\">Mont Cascades</a>Mont Cascades is a family ski center in the National Capital Region. It is geared towards all levels of skiers and snowboarders. The resort is comprised of 20 runs (15 of which offer night skiing), 60 acres of skiable terrain and 95% snowmaking coverage on its terrain.<a href=\"https://www.onthesnow.ca/quebec/mont-cascades/ski-resort.html\" target=\"_blank\">onthesnow.ca</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-75.934788,
+45.644747
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Ski Vorlage",
+ "description": "<strong>Ski Vorlage</strong><p><a href=\"https://www.skivorlage.com/e/welcome_e.shtml\" target=\"_blank\">Ski Vorlage</a>Vorlage is a ski hill located at the village of Wakefield, within the municipality of La Pêche, Quebec, in the Gatineau Hills north of Ottawa, Ontario. It consists of 17 runs, 13 of which have night skiing. It was opened in 1941 and has a terrain park.<a href=\"https://en.wikipedia.org/wiki/Vorlage_(ski_hill)\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-75.850645,
+45.646969
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Sommet Edelweiss",
+ "description": "<strong>Sommet Edelweiss</strong><p><a href=\"https://www.sommets.com/en/ski-mountains/sommet-edelweiss/\" target=\"_blank\">Sommet Edelweiss</a>Sommet Edelweiss is a ski area located in Wakefield, Quebec, 30 minutes north of Ottawa, Ontario, Canada, in the Gatineau Hills.<a href=\"https://en.wikipedia.org/wiki/Sommet_Edelweiss\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-75.87448,
+45.941087
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Mont Ste. Marie",
+ "description": "<strong>Mont Ste. Marie</strong><p><a href=\"https://montstemarie.com/en/\" target=\"_blank\">Mont Ste. Marie</a>Mont Ste. Marie is a privately owned ski resort 1 hour north of Ottawa in Lac-Sainte-Marie, Quebec, Canada. Between 1997 and 2002, Mont Ste. Marie was owned by Intrawest, a real estate development corporation, known for such places as Mont Tremblant, Quebec, and Whistler-Blackcomb, B.C.<a href=\"https://en.wikipedia.org/wiki/Mont_Ste._Marie\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-74.339161,
+45.468304
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Ski Mont Rigaud",
+ "description": "<strong>Ski Mont Rigaud</strong><p><a href=\"https://ski.montrigaud.com/\" target=\"_blank\">Ski Mont Rigaud</a>Ski Mont Rigaud is an alpine ski facility on the slopes of Rigaud Mountain, in the municipality of Rigaud, Quebec.<a href=\"https://en.wikipedia.org/wiki/Ski_Mont_Rigaud\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-74.552879,
+46.220364
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Mont Tremblant",
+ "description": "<strong>Mont Tremblant</strong><p><a href=\"https://www.tremblant.ca/\" target=\"_blank\">Mont Tremblant</a>Mont Tremblant Ski Resort (commonly referred to as Tremblant) is a year-round resort in the Laurentian Mountains of Quebec, Canada, located about 130 km (80 mi) northwest of Montreal. It is best known as a ski destination, but also features Lake Tremblant suitable for swimming and two golf courses in the summer months.<a href=\"https://en.wikipedia.org/wiki/Mont_Tremblant_Resort\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-74.151707,
+45.885004
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Sommet Saint-Sauveur",
+ "description": "<strong>Sommet Saint-Sauveur</strong><p><a href=\"https://www.sommets.com/fr/montagne-de-ski/sommet-saint-sauveur/\" target=\"_blank\">Sommet Saint-Sauveur</a>Sommet Saint-Sauveur (French pronunciation: [mɔ̃ sɛ̃ sovœʁ]) (previously Mont Saint-Sauveur) is a ski mountain and resort located in Saint-Sauveur, Quebec, 45 minutes north of Montreal, Canada, in the Laurentian mountains.<a href=\"https://en.wikipedia.org/wiki/Mont_Saint-Sauveur\" target=\"_blank\">Wikipedia</a></p>"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.781423,
+45.274921
+]
+},
+ "properties": {
+"marker-color": "#7e7e7e",
+"marker-size": "medium",
+"name": "Calabogie Peaks",
+ "description": "<strong>Calabogie Peaks</strong><p><a href=\"http://www.calabogie.com/\" target=\"_blank\">Calabogie Peaks</a>Calabogie Peaks is a ski resort in the municipality of Greater Madawaksa, Renfrew County in Eastern Ontario, Canada. It is located 80 kilometres (50 mi) west of Ottawa, and was founded in 1969.<a href=\"https://en.wikipedia.org/wiki/Calabogie_Peaks\" target=\"_blank\">Wikipedia</a></p>"
+}
+}
   ]
 }
