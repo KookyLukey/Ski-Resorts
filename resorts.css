@@ -73,30 +73,36 @@ ul {
   width: 250px;
 }
 
-    input[type='radio']:after {
-        cursor:pointer;
-        width: 15px;
-        height: 15px;
-        border-radius: 15px;
-        top: -1px;
-        left: -1px;
-        position: relative;
-        background-color: #6C7A89;
-        content: '';
-        display: inline-block;
-        visibility: visible;
-    }
+input[type='radio']:after {
+    cursor:pointer;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    top: -1px;
+    left: -1px;
+    position: relative;
+    background-color: #6C7A89;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+}
 
-    input[type='radio']:checked:after {
-        cursor:pointer;
-        width: 15px;
-        height: 15px;
-        border-radius: 15px;
-        top: -1px;
-        left: -1px;
-        position: relative;
-        background-color: #19B5FE;
-        content: '';
-        display: inline-block;
-        visibility: visible;
-    }
+input[type='radio']:checked:after {
+    cursor:pointer;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    top: -1px;
+    left: -1px;
+    position: relative;
+    background-color: #19B5FE;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+}
+
+@media(max-width:600px){
+  .map-overlay{
+    display: none;
+  }
+}
